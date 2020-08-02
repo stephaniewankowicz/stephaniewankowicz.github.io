@@ -37,7 +37,7 @@
       url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
 
 - title: "The long tail of oncogenic drivers in prostate cancer"
-  citation: "Armenia J*, **Wankowicz SAM***, Liu D*, Gao J, Kundra R, Reznik E, Chatila WK, Chakravarty D, Han GC, Coleman I, Montgomery B, Pritchard C, Morrissey C, Barbieri CE, Beltran H, Sboner A, Zafeiriou Z, Miranda S, Bielski, CM, Penson, AV, Tolonen, C, Huang FW, Robinson, D, Wu YM, Lonigro, R, Garraway LA, Demichelis, F, Kantoff PW, Taplin, M., Abida W, Taylor BS, Scher HI, Nelson PS, de Bono JS, Rubin MA, Sawyers C., Chinnaiyan A, PCF/SU2C International Prostate Cancer Dream Team, Schultz, N., Van Allen, E.M. *Nature Genetics*. 2019. *Co-First Authors"
+  citation: "Armenia J#, **Wankowicz SAM**#, Liu D#, Gao J, Kundra R, Reznik E, Chatila WK, Chakravarty D, Han GC, Coleman I, Montgomery B, Pritchard C, Morrissey C, Barbieri CE, Beltran H, Sboner A, Zafeiriou Z, Miranda S, Bielski, CM, Penson, AV, Tolonen, C, Huang FW, Robinson, D, Wu YM, Lonigro, R, Garraway LA, Demichelis, F, Kantoff PW, Taplin, M., Abida W, Taylor BS, Scher HI, Nelson PS, de Bono JS, Rubin MA, Sawyers C., Chinnaiyan A, PCF/SU2C International Prostate Cancer Dream Team, Schultz, N., Van Allen, E.M. *Nature Genetics*. 2019. #Co-First Authors"
   date: '2019-05-01'
   image: '/static/img/2019_LongTailProstate.png'
   pmid: '29610475'
@@ -47,4 +47,16 @@
   #links:
   #  - name: 
   #    url: 
+
+- title: "Genomic correlates of response to anti-PD-1/PD-L1 therapy in metastatic clear cell renal cell carcinoma."
+  citation: "Miao D, Margolis C, Gao W, Voss MH, Li W, Martini D, Norton C, Bossé D, **Wankowicz SA**, Cullen D, Horak C, Wind-Rotolo M, Tracy A, Giannakis M, Hodi FS, Drake CG, Ball MW, Allaf ME, Snyder Charen A, Hellmann M, Ho T, Motzer RJ, Signoretti S, Kaelin Jr WG, Choueiri TK, Van Allen EM. *Science*. 2018."
+  date: '2018-01-01'
+  image: '/static/img/2018_Miao.png'
+  pmid: '29301960'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://science.sciencemag.org/content/359/6377/801.full.pdf'
+  #links:
+  #  - name: 
+  #   url: 
 
