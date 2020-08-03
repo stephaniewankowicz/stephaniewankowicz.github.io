@@ -84,6 +84,18 @@
   #  - name: 
   #   url: 
 
+- title: "Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles."
+  citation: "Cejas P, Li L, O'Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, García-Olmo D, Bellmunt J, **Mullane SA**, Hirsch M, Sweeney CJ, Richardson A, Liu XS, Brown M, Shivdasani RA, Long HW. *Nature Medicine*. 2016."
+  date: '2016-06-01'
+  image: '/static/img/2065_Cejas.png'
+  pmid: '27111282'
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: ''
+  #links:
+  #  - name: 
+  #   url: 
+  
 - title: "Association of PD-L1 expression on tumor-infiltrating mononuclear cells and overall survival in patients with urothelial carcinoma."
   citation: "Bellmunt J, Mullane SA , Werner L, Fay AP, Callea M, Leow J, Choueiri TK, Hodi FS, Freeman GJ, Signoretti S. *Annals of Oncology*. 2015."
   date: '2015-01-15'
