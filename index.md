@@ -25,5 +25,5 @@ Previously, I was a computational biologist in [Eli Van Allen's lab](https://van
 <br>
 <br>
 
-Outside of science, I love biking and running around the Bay Area. I am a frequent participant in San Francisco [November Project](https://november-project.com/). On the weekends, I am frequently hiking or skiing the Mountains.  
+Outside of science, I love biking and running around the Bay Area. I am a proud member of [November Project](https://november-project.com/) San Francisco (#justshowup). On the weekends, I am frequently hiking or skiing the Mountains.  
 </p>
