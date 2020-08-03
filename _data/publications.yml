@@ -61,7 +61,7 @@
   #   url: 
  
 - title: "Structural alterations driving castration-resistant prostate cancer revealed by linked-read genome sequencing."
-  citation: "Viswanathan SR, Ha G, Hoff AM, Wala JA, Carrot-Zhang J, Whelan, CW, Haradhvala NJ, Freeman SS, Reed SC, Rhoades J, Polak P, Cipicchio M, Wankowicz SA, Wong A, Kamath T, Zheng Z, Gydush GJ, Rotem D, Love CJ, Getz G, Gabriel S, Zhang C, Dehm SM, Nelson PS, Van Allen EM, Choudhury A, Adalsteinsson VA, Beroukhim R, Taplin ME, Meyerson M. *Cell*. 2018."
+  citation: "Viswanathan SR, Ha G, Hoff AM, Wala JA, Carrot-Zhang J, Whelan, CW, Haradhvala NJ, Freeman SS, Reed SC, Rhoades J, Polak P, Cipicchio M, **Wankowicz SA**, Wong A, Kamath T, Zheng Z, Gydush GJ, Rotem D, Love CJ, Getz G, Gabriel S, Zhang C, Dehm SM, Nelson PS, Van Allen EM, Choudhury A, Adalsteinsson VA, Beroukhim R, Taplin ME, Meyerson M. *Cell*. 2018."
   date: '2018-01-15'
   image: '/static/img/2018_Viswanathan.png'
   pmid: '29909985'
@@ -97,7 +97,7 @@
   #   url: 
   
 - title: "Association of PD-L1 expression on tumor-infiltrating mononuclear cells and overall survival in patients with urothelial carcinoma."
-  citation: "Bellmunt J, Mullane SA , Werner L, Fay AP, Callea M, Leow J, Choueiri TK, Hodi FS, Freeman GJ, Signoretti S. *Annals of Oncology*. 2015."
+  citation: "Bellmunt J, **Mullane SA**, Werner L, Fay AP, Callea M, Leow J, Choueiri TK, Hodi FS, Freeman GJ, Signoretti S. *Annals of Oncology*. 2015."
   date: '2015-01-15'
   image: '/static/img/2015_Bellmunt.png'
   pmid: '25600565'
