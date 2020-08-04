@@ -167,4 +167,16 @@
   #links:
   #  - name: 
   #   url: 
+  
+  - title: "Reexamining treatment of high-grade T1 bladder cancer according to depth of lamina propria invasion: a prospective trial of 200 patients."
+  citation: "Orsola A, L. Werner, de Torres I, Martin-Doyle W, Raventos CX, Lozano F, **Mullane SA**, Leow JJ, Barletta JA, Bellmunt J, Morote J. *British Journal of Cancer*. 2015."
+  date: '2015-02-01'
+  image: '/static/img/2015_Orsola.png'
+  pmid: '25535728'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.nature.com/articles/bjc2014633.pdf'
+  #links:
+  #  - name: 
+  #   url: 
 
