@@ -132,6 +132,18 @@
   #  - name: 
   #   url: 
 
+- title: "Exome sequencing of African-American prostate cancer reveals loss-of-function ERF mutations."
+  citation: "Huang FW, Mosquera JM, Garofalo A, Oh C, Baco M, Amin-Mansour A, Rabasha B, Bahl S, **Mullane SA**, Robinson BD, Aldubayan S, Khani F, Karir B, Kim E, Chimene-Weiss J, Hofree M, Romanel A, Osborne JR, Kim JW, Azabdaftari G, Woloszynska-Read A, Sfanos K, De Marzo AM, Demichelis F Gabriel S, Van Allen EM, Mesirov J, Tamayo P, Rubin MA, Powell IJ, Garraway LA. *Cancer Discovery*. 2017."
+  date: '2017-09-15'
+  image: '/static/img/2017_Huang.png'
+  pmid: '28515055'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://cancerdiscovery.aacrjournals.org/content/candisc/7/9/973.full.pdf'
+  #links:
+  #  - name: 
+  #   url: 
+
 - title: "Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles."
   citation: "Cejas P, Li L, O'Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, García-Olmo D, Bellmunt J, **Mullane SA**, Hirsch M, Sweeney CJ, Richardson A, Liu XS, Brown M, Shivdasani RA, Long HW. *Nature Medicine*. 2016."
   date: '2016-06-01'
