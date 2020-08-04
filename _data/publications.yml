@@ -95,7 +95,19 @@
   #links:
   #  - name: 
   #   url: 
-  
+
+- title: "The clinical activity of PD-1/PD-L1 inhibitors in metastatic non–clear cell renal cell carcinoma."
+  citation: "McKay RR, Bossé D, Xie W, **Wankowicz SA**, Flaifel A, Brandao R, Lalani AKA, Martini DJ, Wei XX, Braun DA, Van Allen EM. *Cancer Immunology Research*. 2018."
+  date: '2018-07-01'
+  image: '/static/img/2017_McKay.png'
+  pmid: '29748390'
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: ''
+  #links:
+  #  - name: 
+  #   url:
+
 - title: "Neoadjuvant chemotherapy prior to radical cystectomy for muscle‐invasive bladder cancer with variant histology."
   citation: "Vetterlein MW#, **Wankowicz SA**#, Seisen T, Lander R, Löppenberg B, Chun FK, Menon M, Sun M, Barletta JA, Choueiri TK, Bellmunt J, Trinh QD, Preston, MA. *Cancer*. 2017. #Co-First Authors"
   date: '2017-11-197'
