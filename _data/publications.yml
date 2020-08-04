@@ -72,6 +72,18 @@
   #  - name: 
   #   url: 
 
+- title: "Neoadjuvant chemotherapy prior to radical cystectomy for muscle‐invasive bladder cancer with variant histology."
+  citation: "Vetterlein MW#, **Wankowicz SA**#, Seisen T, Lander R, Löppenberg B, Chun FK, Menon M, Sun M, Barletta JA, Choueiri TK, Bellmunt J, Trinh QD, Preston, MA. *Cancer*. 2017. #Co-First Authors"
+  date: '2017-11-197'
+  image: '/static/img/2017_Vetterlein.png'
+  pmid: '28743155'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://acsjournals.onlinelibrary.wiley.com/doi/pdf/10.1002/cncr.30907'
+  #links:
+  #  - name: 
+  #   url: 
+
 - title: "Mutational patterns in chemotherapy resistant muscle-invasive bladder cancer."
   citation: "Liu D, Abbosh P, Keliher D, Reardon B, Miao D, Mouw K, Taylor-Weiner A, **Mullane SA**, Han C, Teo MY, Cipolla C, Kim J, Iyer G, Al-Ahmadie H, Dulaimi E, Chen DYT, Alpaugh R, Hoffman-Censits J, Garraway L, Getz G, Carter S, Bellmunt J, Plimack E, Rosenberg J, Van Allen EM.*Nature Communication*. 2017."
   date: '2017-12-19'
