@@ -72,6 +72,18 @@
   #  - name: 
   #   url: 
 
+- title: "Genomic correlates of response to immune checkpoint blockade in microsatellite-stable solid tumors."
+  citation: "Miao D, Margolis CA, Vokes NI, Liu D, Taylor-Weiner A, **Wankowicz SM**, Adeegbe D, Keliher D, Schilling B, Tracy A, Manos M, Chau N, Hanna G, Polak P, Rodig SJ, Signoretti S, Sholl L, Engelman J, Getz G, Janne PA, Haddad RI, Choueiri TK, Barbie DA, Haq R, Awad MM, Schadendorf D, Hodi FS, Bellmunt J, Wong KK, Hammerman P, Van Allen, EM. *Nature Genetics*. 2018."
+  date: '2018-09-01'
+  image: '/static/img/2018_Miao_MSS.png'
+  pmid: '30150660'
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: ''
+  #links:
+  #  - name: 
+  #   url: 
+
 - title: "Neoadjuvant chemotherapy prior to radical cystectomy for muscle‐invasive bladder cancer with variant histology."
   citation: "Vetterlein MW#, **Wankowicz SA**#, Seisen T, Lander R, Löppenberg B, Chun FK, Menon M, Sun M, Barletta JA, Choueiri TK, Bellmunt J, Trinh QD, Preston, MA. *Cancer*. 2017. #Co-First Authors"
   date: '2017-11-197'
