@@ -71,7 +71,19 @@
   #links:
   #  - name: 
   #   url: 
- 
+
+- title: "Mutational patterns in chemotherapy resistant muscle-invasive bladder cancer."
+  citation: "Liu D, Abbosh P, Keliher D, Reardon B, Miao D, Mouw K, Taylor-Weiner A, **Mullane SA**, Han C, Teo MY, Cipolla C, Kim J, Iyer G, Al-Ahmadie H, Dulaimi E, Chen DYT, Alpaugh R, Hoffman-Censits J, Garraway L, Getz G, Carter S, Bellmunt J, Plimack E, Rosenberg J, Van Allen EM.*Nature Communication*. 2017."
+  date: '2017-12-19'
+  image: '/static/img/2017_Liu.png'
+  pmid: '29259186'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.nature.com/articles/s41467-017-02320-7.pdf?origin=ppub'
+  #links:
+  #  - name: 
+  #   url: 
+
 - title: "DNA damage response and repair gene alterations are associated with improved survival in patients with platinum-treated advanced urothelial carcinoma."
   citation: "Teo MY, Bambury RM, Zabor EC, Jordan E, Al-Ahmadie H, Boyd ME, Bouvier N, **Mullane SA**, Cha EK, Roper N, Ostrovnaya I, Hyman DM, Bochner BH, Arcila ME, Solit DB, Berger MF, Bajorin DF, Bellmunt J, Iyer G, Rosenberg JE. *Clinical Cancer Research*. 2017."
   date: '2017-01-15'
