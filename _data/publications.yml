@@ -84,6 +84,18 @@
   #  - name: 
   #   url: 
 
+- title: "Immunogenomic analyses associate immunological alterations with mismatch repair defects in prostate cancer."
+  citation: "Rodrigues DN, Rescigno P, Liu D, Yuan W, Carreira S, Lambros MB, Seed G, Mateo J, Riisnaes R, **Mullane S**, Margolis C, Miao D, Miranda S, Dolling D, Clarke M, Bertan C, Crespo M, Boysen G, Ferreria A, Sharp A, Figueiredo I, Keliher D, Aldubayan S, Burke K, Sumanasyriya S, Fontes M, Bianchini D, Zafeiriou Z, Mendes L, Mouw K, Schweizer M, Pritchard C, Salipante S, Taplin ME, Beltran H, Rubin M, Cieslik M, Robinson D, Heath E, Schultz N, Armenia J, Abida W, Scher H, Lord C, D’Andrea A, Sawyers C, Chinnaiyan A, Alimonti A, Nelson P, Drake C, Van Allen E, de Bono, JS. *The Journal of clinical investigation*. 2018."
+  date: '2018-10-01'
+  image: '/static/img/2018_Rodrigues.png'
+  pmid: ''
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: ''
+  #links:
+  #  - name: 
+  #   url: 
+  
 - title: "Neoadjuvant chemotherapy prior to radical cystectomy for muscle‐invasive bladder cancer with variant histology."
   citation: "Vetterlein MW#, **Wankowicz SA**#, Seisen T, Lander R, Löppenberg B, Chun FK, Menon M, Sun M, Barletta JA, Choueiri TK, Bellmunt J, Trinh QD, Preston, MA. *Cancer*. 2017. #Co-First Authors"
   date: '2017-11-197'
