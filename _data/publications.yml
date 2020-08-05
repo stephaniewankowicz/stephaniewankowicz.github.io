@@ -203,11 +203,24 @@
   #links:
   #  - name: 
   #   url: 
-
+  
+  
 - title: "Reexamining treatment of high-grade T1 bladder cancer according to depth of lamina propria invasion: a prospective trial of 200 patients."
   citation: "Orsola A, L. Werner, de Torres I, Martin-Doyle W, Raventos CX, Lozano F, **Mullane SA**, Leow JJ, Barletta JA, Bellmunt J, Morote J. *British Journal of Cancer*. 2015."
   date: '2015-02-01'
   image: '/static/img/2015_Orsola.png'
+  pmid: '25535728'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.nature.com/articles/bjc2014633.pdf'
+  #links:
+  #  - name: 
+  #   url: 
+
+- title: "HER2 as a target in invasive urothelial carcinoma."
+  citation: "Bellmunt J, Werner L, Bamias A, Fay AP, Park RS, Riester M, Selvarajah S, Barletta J, Berman D, de Muga S, Salido M, Gallardo E, Rojo F, Guancial E, Bambury R, **Mullane SA**, Choueiri TK, Loda M, Stack E, Rosenberg, J. *Cancer Medicine*. 2015."
+  date: '2015-02-01'
+  image: '/static/img/2015_Bellmunt_HER2.png'
   pmid: '25535728'
   # pmcid: ''
   # biorxiv: ''
