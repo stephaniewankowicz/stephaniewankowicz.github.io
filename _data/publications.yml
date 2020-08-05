@@ -108,6 +108,18 @@
   #  - name: 
   #   url:
 
+- title: "Differential expression of PD-L1 in high grade T1 vs muscle invasive bladder carcinoma and its prognostic implications."
+  citation: "**Wankowicz SA**, Werner L, Orsola A, Novak J, Bowden M, Choueiri TK, de Torres I, Morote J, Freeman GJ, Signoretti S, Bellmunt J. *The Journal of Urology*. 2017."
+  date: '2017-12-19'
+  image: '/static/img/2017_Wankowicz.png'
+  pmid: '29259186'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.nature.com/articles/s41467-017-02320-7.pdf?origin=ppub'
+  #links:
+  #  - name: 
+  #   url: 
+  
 - title: "Neoadjuvant chemotherapy prior to radical cystectomy for muscle‐invasive bladder cancer with variant histology."
   citation: "Vetterlein MW#, **Wankowicz SA**#, Seisen T, Lander R, Löppenberg B, Chun FK, Menon M, Sun M, Barletta JA, Choueiri TK, Bellmunt J, Trinh QD, Preston, MA. *Cancer*. 2017. #Co-First Authors"
   date: '2017-11-197'
