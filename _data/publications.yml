@@ -168,7 +168,7 @@
   #  - name: 
   #   url: 
 
-- title: "Correlation of apobec mrna expression with overall survival and pd-l1 expression in urothelial carcinoma"
+- title: "Correlation of apobec mrna expression with overall survival and pd-l1 expression in urothelial carcinoma."
   citation: "**Mullane SA**, Werner L, Rosenberg J, Signoretti S, Callea M, Choueiri TK, Freeman GJ, Bellmunt J. *Scientific Reports*. 2016."
   date: '2016-06-01'
   image: '/static/img/2016_Mullane.png'
@@ -176,6 +176,18 @@
   # pmcid: ''
   # biorxiv: ''
   pdf: 'https://www.nature.com/articles/srep27702.pdf'
+  #links:
+  #  - name: 
+  #   url: 
+
+- title: "Expression levels of DNA damage repair proteins are associated with overall survival in platinum-treated advanced urothelial carcinoma."
+  citation: "**Mullane SA**, Werner L, Guancial EA, Lis RT, Stack EC, Loda, M, Kantoff PW, Choueiri TK, Rosenberg J, Bellmunt, J. *Clinical Genitourinary Cancer*. 2016."
+  date: '2016-06-01'
+  image: '/static/img/2016_Mullane_DNADam.png'
+  pmid: '26778300'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508512/pdf/nihms875776.pdf'
   #links:
   #  - name: 
   #   url: 
