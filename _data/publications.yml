@@ -192,11 +192,11 @@
   #  - name: 
   #   url: 
   
-- title: "Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles."
-  citation: "Cejas P, Li L, O'Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, García-Olmo D, Bellmunt J, **Mullane SA**, Hirsch M, Sweeney CJ, Richardson A, Liu XS, Brown M, Shivdasani RA, Long HW. *Nature Medicine*. 2016."
+- title: "Cancer immunotherapy: new applications in urologic oncology."
+  citation: "**Mullane SA**, Bellmunt J. *Current Opinions in Urology*. 2016."
   date: '2016-06-01'
-  image: '/static/img/2016_Cejas.png'
-  pmid: '27111282'
+  #image: '/static/img/2016_Mullane.png'
+  pmid: '27584023'
   # pmcid: ''
   # biorxiv: ''
   # pdf: ''
