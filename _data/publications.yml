@@ -48,6 +48,18 @@
   #  - name: 
   #    url: 
 
+- title: "Patient-driven efforts to liberate clinical cancer genomic data."
+  citation: ", **Wankowicz SA**, Maile B, Deutsch K, Hayden A, Brown E, Marsilje T, Caldwell B, Simoncelli T, Van Allen E. 2018."
+  date: '2018-01-01'
+  image: '/static/img/2018_Wankowicz_CGC.png'
+  #pmid: '30139659'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://osf.io/gupvq/download?format=pdf'
+  #links:
+  #  - name: 
+  #   url: 
+
 - title: "Racial disparity in quality of care and overall survival among black vs. white patients with muscle-invasive bladder cancer treated with radical cystectomy: A national cancer database analysis."
   citation: "Gild P#, **Wankowicz SA**#, Sood A, von Landenberg N, Friedlander DF, Alanee S, Bellmunt, J. *Urological Oncology*. 2018. #Co-First Authors"
   date: '2018-01-01'
