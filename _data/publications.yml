@@ -59,6 +59,18 @@
   #links:
   #  - name: 
   #    url: 
+  
+- title: "CREB5 Promotes Resistance to Androgen-Receptor Antagonists and Androgen Deprivation in Prostate Cancer."
+  citation: "Hwang JH, Seo J, Beshiri ML, Wankowicz SA , Liu D, Cheung A, Li J, Qiu X, Hong AL, Botta G, Golumb L, Richter C, So J, Sandoval GJ, Giacomelli AO, Ly SH, Han C, Dai C, Pakula H, Sheahan A, Piccioni F, Gjoerup O, Loda M, Sowalsky AG, Ellis L, Long H, Root DE, Kelly K, Van Allen EM, Freedman ML, Choudhury AC, Hahn WC. *Cell Reports*. 2019."
+  date: '2018-01-01'
+  #image: '/static/img/2019_Hwang.png'
+  pmid: '31747605'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886683/'
+  #links:
+  #  - name: 
+  #   url:
 
 - title: "Patient-driven efforts to liberate clinical cancer genomic data."
   citation: ", **Wankowicz SA**, Maile B, Deutsch K, Hayden A, Brown E, Marsilje T, Caldwell B, Simoncelli T, Van Allen E. 2018."
