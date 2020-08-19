@@ -179,6 +179,18 @@
   #links:
   #  - name: 
   #   url:
+ 
+- title: "Nomogram to assess the survival benefit of new salvage agents for metastatic urothelial carcinoma in the era of immunotherapy."
+  citation: "Sonpavde G, Pond GR, Rosenberg JE, Choueiri TK, Bellmunt J, Regazzi AM, Mullane SA , Necchi A, Raggi D, Lee JL, Lee S. *Clinical Cancer Research*. 2018."
+  date: '2018-07-01'
+  image: '/static/img/2018_Sonpavde.png'
+  pmid: '29706503'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697267/pdf/nihms-1044512.pdf'
+  #links:
+  #  - name: 
+  #   url:
 
 - title: "Differential expression of PD-L1 in high grade T1 vs muscle invasive bladder carcinoma and its prognostic implications."
   citation: "**Wankowicz SA**, Werner L, Orsola A, Novak J, Bowden M, Choueiri TK, de Torres I, Morote J, Freeman GJ, Signoretti S, Bellmunt J. *The Journal of Urology*. 2017."
