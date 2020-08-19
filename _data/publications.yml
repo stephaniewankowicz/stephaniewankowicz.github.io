@@ -167,6 +167,18 @@
   #links:
   #  - name: 
   #   url:
+  
+- title: "Everolimus and pazopanib (E/P) benefit genomically selected patients with metastatic urothelial carcinoma."
+  citation: "Bellmunt J, Lalani AKA, Jacobus S, **Wankowicz SA**, Polacek L, Takeda DY, Harshman LC, Wagle N, Moreno I, Lundgren K, Bossé D, Van Allen E, Choueiri T, Rosenberg J.. *British Journal of Cancer*. 2018."
+  date: '2018-07-01'
+  image: '/static/img/2018_Bellmunt.png'
+  pmid: '30220708'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.nature.com/articles/s41416-018-0261-0.pdf'
+  #links:
+  #  - name: 
+  #   url:
 
 - title: "Differential expression of PD-L1 in high grade T1 vs muscle invasive bladder carcinoma and its prognostic implications."
   citation: "**Wankowicz SA**, Werner L, Orsola A, Novak J, Bowden M, Choueiri TK, de Torres I, Morote J, Freeman GJ, Signoretti S, Bellmunt J. *The Journal of Urology*. 2017."
