@@ -95,7 +95,19 @@
   #links:
   #  - name: 
   #   url: 
-
+  
+- title: "Targeted genomic landscape of metastases compared to primary tumours in clear cell metastatic renal cell carcinoma."
+  citation: "Velasco G#, *Wankowicz SA**#, Madison R, Ali SM, Norton C, Duquette A, Ross JS, Bossé D, Lalani AKA, Miller VA, Stephens PJ, Young L, Hakimi AA, Signoretti SS, Pal SK, Choueiri TK. *British Journal of Cancer*. 2018. #Co-First Authors"
+  date: '2018-09-01'
+  image: '/static/img/2018_deVelasco.png'
+  pmid: '29674707'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.nature.com/articles/s41416-018-0064-3.pdf'
+  #links:
+  #  - name: 
+  #   url: 
+  
 - title: "Racial disparity in quality of care and overall survival among black vs. white patients with muscle-invasive bladder cancer treated with radical cystectomy: A national cancer database analysis."
   citation: "Gild P#, **Wankowicz SA**#, Sood A, von Landenberg N, Friedlander DF, Alanee S, Bellmunt, J. *Urological Oncology*. 2018. #Co-First Authors"
   date: '2018-01-01'
