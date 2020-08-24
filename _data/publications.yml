@@ -275,6 +275,19 @@
   #links:
   #  - name: 
   #   url: 
+  
+ - title: "Upper Tract Urothelial Carcinomas: Prognostic Factors and Outcomes in Patients With Non–Lymph Node Distant Metastasis."
+  citation: "Sevillano E, Werner L, Bossé D, Lalani AA, **Wankowicz SA**, de Velasco G, Farina M, Lundgren K, Choueiri TK, González Del Alba A, Bellmunt J. *Clinical Genitourinary Cancer*. 2017."
+  date: '2017-09-15'
+  image: '/static/img/2017_Sevillano.png'
+  pmid: '28864222'
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: ''
+  #links:
+  #  - name: 
+  #   url:  
+  
 
 - title: "Correlation of apobec mrna expression with overall survival and pd-l1 expression in urothelial carcinoma."
   citation: "**Mullane SA**, Werner L, Rosenberg J, Signoretti S, Callea M, Choueiri TK, Freeman GJ, Bellmunt J. *Scientific Reports*. 2016."
