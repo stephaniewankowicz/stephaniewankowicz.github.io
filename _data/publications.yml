@@ -239,6 +239,18 @@
   #links:
   #  - name: 
   #   url: 
+  
+ - title: "Genomic resistance patterns to second-generation androgen blockade in paired tumor biopsies of metastatic castration-resistant prostate cancer."
+  citation: "Han GC, Hwang J, **Wankowicz SA**, Zhang Z, Liu D, Cibulskis C, Gaviola GC, Ghazikhanian V, McKay RR, Bubley GJ, Carter SL, Balk SP, Hahn WH, Taplin EM, Van Allen EM. *Journal of Clinical Oncology Precision Medicine*. 2017."
+  date: '2017-12-19'
+  image: '/static/img/2017_Han.png'
+  # pmid: ''
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://ascopubs.org/doi/pdfdirect/10.1200/PO.17.00140'
+  #links:
+  #  - name: 
+  #   url: 
 
 - title: "DNA damage response and repair gene alterations are associated with improved survival in patients with platinum-treated advanced urothelial carcinoma."
   citation: "Teo MY, Bambury RM, Zabor EC, Jordan E, Al-Ahmadie H, Boyd ME, Bouvier N, **Mullane SA**, Cha EK, Roper N, Ostrovnaya I, Hyman DM, Bochner BH, Arcila ME, Solit DB, Berger MF, Bajorin DF, Bellmunt J, Iyer G, Rosenberg JE. *Clinical Cancer Research*. 2017."
