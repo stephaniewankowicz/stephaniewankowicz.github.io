@@ -24,8 +24,8 @@
   #  - name:
   #    url: 
   
-- title: "Outcomes of the 2019 EMDataResource model challenge: validation of cryo-EM models at near-atomic resolution"
-  citation: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, Barad BA, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Jr. MAH, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, **Wankowicz SA**, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W. *Nature*. 2020."
+- title: "Outcomes of the 2019 EMDataResource model challenge: validation of cryo-EM models at near-atomic resolution."
+  citation: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, Barad BA, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Jr. MAH, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, **Wankowicz SA**, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W. 2020."
   date: '2020-06-19'
   image: '/static/img/2020_lawson.jpg'
   # pmid: ''
@@ -36,8 +36,8 @@
     - name: 2019 Model Metrics Challenge
       url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
       
-- title: "Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding"
-  citation: "Newberry RW, Arhar T, Costello J, Hartoularos GC, Maxwell AM, Chi Naing ZZ, Pittman M, Reddy NR, Schwarz DM, Wassarman DR, Wu TS, Barrero D, Caggiano C, Catching A, Cavazos TB, Estes L, Faust B, Fink EA, Goldman MA, Gomez YK, Gordon MG, Gunsalus LM, Hoppe N, Jaime-Garza M, Johnson MC, Jones MG, Kung AF, Lopez KE, Lumpe J, Martyn C, McCarthy EE, Miller-Vedam LE, Navarro EJ, Palar A, Pellegrino J, Saylor W, Stephens CA, Strickland J, Torosyan H, **Wankowicz SA**, Wong Dr, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. *Nature*. 2020."
+- title: "Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding."
+  citation: "Newberry RW, Arhar T, Costello J, Hartoularos GC, Maxwell AM, Chi Naing ZZ, Pittman M, Reddy NR, Schwarz DM, Wassarman DR, Wu TS, Barrero D, Caggiano C, Catching A, Cavazos TB, Estes L, Faust B, Fink EA, Goldman MA, Gomez YK, Gordon MG, Gunsalus LM, Hoppe N, Jaime-Garza M, Johnson MC, Jones MG, Kung AF, Lopez KE, Lumpe J, Martyn C, McCarthy EE, Miller-Vedam LE, Navarro EJ, Palar A, Pellegrino J, Saylor W, Stephens CA, Strickland J, Torosyan H, **Wankowicz SA**, Wong Dr, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. *ACS Chemical Biology*. 2020."
   date: '2020-06-19'
   image: '/static/img/2020_Newberry.png'
   pmid: '32786289'
@@ -48,7 +48,7 @@
     - name: 2018 PUBS
       url: https://kampmannlab.ucsf.edu/pubs-2018
       
-- title: "The long tail of oncogenic drivers in prostate cancer"
+- title: "The long tail of oncogenic drivers in prostate cancer."
   citation: "Armenia J#, **Wankowicz SAM**#, Liu D#, Gao J, Kundra R, Reznik E, Chatila WK, Chakravarty D, Han GC, Coleman I, Montgomery B, Pritchard C, Morrissey C, Barbieri CE, Beltran H, Sboner A, Zafeiriou Z, Miranda S, Bielski, CM, Penson, AV, Tolonen, C, Huang FW, Robinson, D, Wu YM, Lonigro, R, Garraway LA, Demichelis, F, Kantoff PW, Taplin, M., Abida W, Taylor BS, Scher HI, Nelson PS, de Bono JS, Rubin MA, Sawyers C., Chinnaiyan A, PCF/SU2C International Prostate Cancer Dream Team, Schultz, N., Van Allen, E.M. *Nature Genetics*. 2019. #Co-First Authors"
   date: '2019-05-01'
   image: '/static/img/2019_LongTailProstate.png'
@@ -61,7 +61,7 @@
   #    url: 
   
 - title: "CREB5 Promotes Resistance to Androgen-Receptor Antagonists and Androgen Deprivation in Prostate Cancer."
-  citation: "Hwang JH, Seo J, Beshiri ML, Wankowicz SA , Liu D, Cheung A, Li J, Qiu X, Hong AL, Botta G, Golumb L, Richter C, So J, Sandoval GJ, Giacomelli AO, Ly SH, Han C, Dai C, Pakula H, Sheahan A, Piccioni F, Gjoerup O, Loda M, Sowalsky AG, Ellis L, Long H, Root DE, Kelly K, Van Allen EM, Freedman ML, Choudhury AC, Hahn WC. *Cell Reports*. 2019."
+  citation: "Hwang JH, Seo J, Beshiri ML, **Wankowicz SA**, Liu D, Cheung A, Li J, Qiu X, Hong AL, Botta G, Golumb L, Richter C, So J, Sandoval GJ, Giacomelli AO, Ly SH, Han C, Dai C, Pakula H, Sheahan A, Piccioni F, Gjoerup O, Loda M, Sowalsky AG, Ellis L, Long H, Root DE, Kelly K, Van Allen EM, Freedman ML, Choudhury AC, Hahn WC. *Cell Reports*. 2019."
   date: '2019-01-01'
   image: '/static/img/2019_Hwang.png'
   pmid: '31747605'
@@ -97,7 +97,7 @@
   #   url: 
   
 - title: "Targeted genomic landscape of metastases compared to primary tumours in clear cell metastatic renal cell carcinoma."
-  citation: "Velasco G#, *Wankowicz SA**#, Madison R, Ali SM, Norton C, Duquette A, Ross JS, Bossé D, Lalani AKA, Miller VA, Stephens PJ, Young L, Hakimi AA, Signoretti SS, Pal SK, Choueiri TK. *British Journal of Cancer*. 2018. #Co-First Authors"
+  citation: "Velasco G#, **Wankowicz SA**#, Madison R, Ali SM, Norton C, Duquette A, Ross JS, Bossé D, Lalani AKA, Miller VA, Stephens PJ, Young L, Hakimi AA, Signoretti SS, Pal SK, Choueiri TK. *British Journal of Cancer*. 2018. #Co-First Authors"
   date: '2018-09-01'
   image: '/static/img/2018_deVelasco.png'
   pmid: '29674707'
@@ -229,7 +229,7 @@
   #   url: 
 
 - title: "Mutational patterns in chemotherapy resistant muscle-invasive bladder cancer."
-  citation: "Liu D, Abbosh P, Keliher D, Reardon B, Miao D, Mouw K, Taylor-Weiner A, **Mullane SA**, Han C, Teo MY, Cipolla C, Kim J, Iyer G, Al-Ahmadie H, Dulaimi E, Chen DYT, Alpaugh R, Hoffman-Censits J, Garraway L, Getz G, Carter S, Bellmunt J, Plimack E, Rosenberg J, Van Allen EM.*Nature Communication*. 2017."
+  citation: "Liu D, Abbosh P, Keliher D, Reardon B, Miao D, Mouw K, Taylor-Weiner A, **Mullane SA**, Han C, Teo MY, Cipolla C, Kim J, Iyer G, Al-Ahmadie H, Dulaimi E, Chen DYT, Alpaugh R, Hoffman-Censits J, Garraway L, Getz G, Carter S, Bellmunt J, Plimack E, Rosenberg J, Van Allen EM. *Nature Communication*. 2017."
   date: '2017-12-19'
   image: '/static/img/2017_Liu.png'
   pmid: '29259186'
