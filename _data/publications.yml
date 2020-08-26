@@ -312,18 +312,6 @@
   #links:
   #  - name: 
   #   url: 
-
-- title: "Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles."
-  citation: "Cejas P, Li L, O'Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, García-Olmo D, Bellmunt J, **Mullane SA**, Hirsch M, Sweeney CJ, Richardson A, Liu XS, Brown M, Shivdasani RA, Long HW. *Nature Medicine*. 2016."
-  date: '2016-06-01'
-  image: '/static/img/2016_Cejas.png'
-  pmid: '27111282'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
   
 - title: "Precision medicine for advanced prostate cancer."
   citation: "**Mullane SA**, Van Allen EM. *Current Opinion in Urology*. 2016."
@@ -348,7 +336,31 @@
   #links:
   #  - name: 
   #   url: 
-
+  
+- title: "Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles."
+  citation: "Cejas P, Li L, O'Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, García-Olmo D, Bellmunt J, **Mullane SA**, Hirsch M, Sweeney CJ, Richardson A, Liu XS, Brown M, Shivdasani RA, Long HW. *Nature Medicine*. 2016."
+  date: '2016-06-01'
+  image: '/static/img/2016_Cejas.png'
+  pmid: '27111282'
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: ''
+  #links:
+  #  - name: 
+  #   url: 
+  
+- title: "Outcomes in patients with advanced urothelial carcinoma after discontinuation of programmed death (PD)-1 or PD ligand 1 inhibitor therapy."
+  citation: "Sonpavde G, Pond GR, **Mullane S**, Ramirez AA, Vogelzang NJ, Necchi A, Powles T, Bellmunt J. *BJU International*. 2016."
+  date: '2016-01-15'
+  image: '/static/img/2016_Sonpavde.png'
+  pmid: '27700015'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/bju.13674'
+  #links:
+  #  - name: 
+  #   url: 
+  
 - title: "Association of PD-L1 expression on tumor-infiltrating mononuclear cells and overall survival in patients with urothelial carcinoma."
   citation: "Bellmunt J, **Mullane SA**, Werner L, Fay AP, Callea M, Leow J, Choueiri TK, Hodi FS, Freeman GJ, Signoretti S. *Annals of Oncology*. 2015."
   date: '2015-01-15'
@@ -360,7 +372,6 @@
   #links:
   #  - name: 
   #   url: 
-  
   
 - title: "Reexamining treatment of high-grade T1 bladder cancer according to depth of lamina propria invasion: a prospective trial of 200 patients."
   citation: "Orsola A, L. Werner, de Torres I, Martin-Doyle W, Raventos CX, Lozano F, **Mullane SA**, Leow JJ, Barletta JA, Bellmunt J, Morote J. *British Journal of Cancer*. 2015."
