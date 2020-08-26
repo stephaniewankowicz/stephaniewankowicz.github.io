@@ -433,6 +433,18 @@
   #  - name: 
   #   url: 
   
+- title: "Somatic Copy Number Abnormalities and Mutations in PI3K/AKT/mTOR Pathway Have Prognostic Significance for Overall Survival in Platinum Treated Locally Advanced or Metastatic Urothelial Tumors."
+  citation: "Bellmunt J, Werner L, Leow JJ, **Mullane SA**, Fay AP, Riester M, Van Hummelen P, Taplin ME, Choueiri TK, Van Allen E, Rosenberg, J. *PloS One*. 2015."
+  date: '2015-02-01'
+  image: '/static/img/2015_Bellmunt_CN.png'
+  pmid: '26320810'
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: 'https://www.nature.com/articles/bjc2014633.pdf'
+  #links:
+  #  - name: 
+  #   url: 
+  
 - title: "Temporal trends in receipt of adequate lymphadenectomy in bladder cancer 1988 to 2010."
   citation: "Cole AP, Dalela D, Hanske J, **Mullane SA**, Choueiri TK, Meyer CP, Nguyen Pl, Menon M, Kibel AS, Preston MA, Bellmunt J, Trinh Q. *Urologic Oncology*. 2015."
   date: '2015-02-01'
