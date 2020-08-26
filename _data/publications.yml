@@ -397,6 +397,18 @@
   #  - name: 
   #   url: 
   
+- title: "Single-agent taxane versus taxane-containing combination chemotherapy as salvage therapy for advanced urothelial carcinoma."
+  citation: "Sonpavde G, Pond GR, Choueiri TK, **Mullane SA**, Niegisch G, Albers, P, Necchi A5, Di Lorenzo G, Buonerba C, RozziA, Matsumoto K, Lee JL, Kitamura H, Kume H, Bellmunt J. *European Urology*. 2016."
+  date: '2016-01-15'
+  #image: '/static/img/2016_Sonpavde3.png'
+  pmid: '26264159'
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: ''
+  #links:
+  #  - name: 
+  #   url: 
+  
 - title: "Association of PD-L1 expression on tumor-infiltrating mononuclear cells and overall survival in patients with urothelial carcinoma."
   citation: "Bellmunt J, **Mullane SA**, Werner L, Fay AP, Callea M, Leow J, Choueiri TK, Hodi FS, Freeman GJ, Signoretti S. *Annals of Oncology*. 2015."
   date: '2015-01-15'
