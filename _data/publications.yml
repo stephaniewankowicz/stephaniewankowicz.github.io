@@ -361,6 +361,18 @@
   #  - name: 
   #   url: 
   
+- title: "Impact of Prior Platinum-Based Therapy on Patients Receiving Salvage Systemic Treatment for Advanced Urothelial Carcinoma."
+  citation: "Sonpavde G, Pond GR, Di Lorenzo G, Buonerba C, Rozzi A, Lanzetta G, Necchi A, Giannatempo P, Raggi D6, Matsumoto K, Choueiri TK, **Mullane SA**, Niegisch G, Albers P, Lee JL, Kitamura H, Kume H, Bellmunt J. *Clinical Genitourinary Cancer*. 2016."
+  date: '2016-01-15'
+  image: '/static/img/2016_Sonpavde2.png'
+  pmid: '27262369'
+  # pmcid: ''
+  # biorxiv: ''
+  # pdf: ''
+  #links:
+  #  - name: 
+  #   url: 
+  
 - title: "Association of PD-L1 expression on tumor-infiltrating mononuclear cells and overall survival in patients with urothelial carcinoma."
   citation: "Bellmunt J, **Mullane SA**, Werner L, Fay AP, Callea M, Leow J, Choueiri TK, Hodi FS, Freeman GJ, Signoretti S. *Annals of Oncology*. 2015."
   date: '2015-01-15'
