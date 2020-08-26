@@ -373,6 +373,18 @@
   #  - name: 
   #   url: 
   
+- title: "Association of tumour microRNA profiling with outcomes in patients with advanced urothelial carcinoma receiving first-line platinum-based chemotherapy."
+  citation: "Bellmunt J, Zhou CW, **Mullane SA**, Werner L, Taplin ME, Fay AP, Choueiri TK, Orsola A, Takeda DY, Hahn WC, Kim J, Sonpavde G, Bowden M. *British Journal of Cancer*. 2016."
+  date: '2016-06-01'
+  image: '/static/img/2016_Bellmunt2.png'
+  pmid: '27351382'
+  # pmcid: ''
+  # biorxiv: ''
+  pdf: 'https://www.nature.com/articles/bjc2016146.pdf'
+  #links:
+  #  - name: 
+  #   url:   
+  
 - title: "Impact of Prior Platinum-Based Therapy on Patients Receiving Salvage Systemic Treatment for Advanced Urothelial Carcinoma."
   citation: "Sonpavde G, Pond GR, Di Lorenzo G, Buonerba C, Rozzi A, Lanzetta G, Necchi A, Giannatempo P, Raggi D6, Matsumoto K, Choueiri TK, **Mullane SA**, Niegisch G, Albers P, Lee JL, Kitamura H, Kume H, Bellmunt J. *Clinical Genitourinary Cancer*. 2016."
   date: '2016-01-15'
