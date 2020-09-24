@@ -20,7 +20,7 @@ Currently, I am a Ph.D. Candidate at the University of California San Francisco 
 <br>
 <br>
 
-I am currently supported by a [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/).
+I am currently supported by a [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/) and the [UCSF Discovery Fellows Program] (https://graduate.ucsf.edu/discovery-fellows-program).
 
 <br>
 <br>
