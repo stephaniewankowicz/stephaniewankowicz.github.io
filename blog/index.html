@@ -7,8 +7,7 @@ group: blog
 <div class="page-header"><h1 class="text-center"> Stephanie Wankowicz's Blog <br><small>_</small> </h1></div>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-<div class="row">
-<div class="col-sm-8 lead">
+  <hr>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
     {% if post.updated %}
@@ -26,8 +25,6 @@ group: blog
     {% endif %}
   </div>
   <hr>
-</div>
-</div>
  <div class="clearfix visible-xs-block"></div>
 
 {% endfor %}
