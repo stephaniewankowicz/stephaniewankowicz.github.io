@@ -1,3 +1,9 @@
+---
+title: To my Democrat friends
+author: ''
+layout: post
+group: blog
+---
 Science and medicine is dependent on data. Data is why we can state something as a fact or theory rather than an opinion or hypothesis. The more data you have proving your theory, the evidence you have, and thus the more confident one can be in recommending a treatment or outcome. Often people talk about evidence based medicine. This evidence comes from data generated from clinical trials.
 
 
