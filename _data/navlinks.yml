@@ -16,4 +16,4 @@
 
 - name: run every street
   url: /run
-  group: blog
+  group: runstreets
