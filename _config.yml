@@ -1,10 +1,10 @@
 name: "Stephanie Wankowicz"
 description: "My Website"
 
-url: "https://stephaniewankowicz.github.io/"
+url: "https://stephaniewankowicz.github.io"
 
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 10
 paginate_path: "blog/page:num"
 
 permalink: pretty
