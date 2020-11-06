@@ -1,32 +1,30 @@
 ---
 ---
 <?xml version="1.0"?>
-<xsl:stylesheet version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>Stephanie Wankowicz's Blog</title>
+  <title>Fraser Lab News</title>
   <link href="{{ site.url }}"/>
-  <link type="application/atom+xml" rel="self" href="{{site.url}}/blog.xml"/>
+  <link type="application/atom+xml" rel="self" href="{{site.url}}/news.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{site.url}}</id>
   <author>
-    <name>Stephanie Wankowicz</name>
+    <name>James Fraser</name>
     <!-- <email>you@example.com</email> -->
   </author>
 
   {% for post in site.posts limit:20 %}
   <entry>
     <id>{{site.url}}{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="{{site.url}}{{ blog.url }}"/>
-    <title>{{ blog.title }}</title>
-    <published>{{ blog.date | date_to_xmlschema }}</published>
-    <updated>{{ blog.date | date_to_xmlschema }}</updated>
+    <link type="text/html" rel="alternate" href="{{site.url}}{{ post.url }}"/>
+    <title>{{ post.title }}</title>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>{{blog.author}}</name>
-      <uri>{{blog.url}}</uri>
+      <name>{{post.author}}</name>
+      <uri>{{post.url}}</uri>
     </author>
-    <content type="html">{{ blog.content | xml_escape }}</content>
+    <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
  
