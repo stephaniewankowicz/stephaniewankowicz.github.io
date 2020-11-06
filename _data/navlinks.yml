@@ -13,3 +13,7 @@
 - name: contact
   url: /contact
   group: contact
+
+- name: run
+  url: /run
+  group: blog
