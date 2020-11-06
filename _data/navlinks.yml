@@ -14,6 +14,6 @@
   url: /contact
   group: contact
 
-- name: run
+- name: run every street
   url: /run
   group: blog
