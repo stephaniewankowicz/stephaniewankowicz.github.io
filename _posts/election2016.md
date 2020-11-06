@@ -4,8 +4,6 @@ author: Stephanie
 layout: post
 group: blog
 ---
-
-
 To my Democrat friends
 
 Multiple tears streamed down my face as I went to bed on Tuesday night. I thought that history would be made Tuesday night. History was made, but not the history I was hoping for.
