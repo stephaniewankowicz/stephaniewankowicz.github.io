@@ -1,23 +1,36 @@
 ---
-title: Stephanie's Blog
-layout: postlist
-group: bloh
+name: Blog
+layout: default
+group: blog
 ---
 
-
+<div class="page-header"><h1 class="text-center"> Ideas and Stories <br><small>In Blog Format</small> </h1></div>
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <hr>
+<div class="row">
+<div class="col-sm-8 lead">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="author">
-    <span class="author"><a href="/members#{{post.author}}">{{post.author}}</a></span><br>
-    <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
+    {% if post.updated %}
+      <span class="date"><em>{{ post.date | date_to_long_string }} - Last Updated {{ post.updated | date_to_long_string }}</em></span>
+    {% else %}
+      <span class="date"><em>{{ post.date | date_to_long_string }}</em></span>
+    {% endif %}
   </p>
   <div class="content">
-    {{ post.content }}
+    
+    {{ post.content | split:'<!--break-->' | first }}
+    
+    {% if post.content contains '<!--break-->' %}
+      <a href="{{ post.url }}">read more</a>
+    {% endif %}
   </div>
+  <hr>
+</div>
+</div>
+ <div class="clearfix visible-xs-block"></div>
+
 {% endfor %}
-<hr>
 
 <!-- This makes links to other paginator pages -->
 {% if paginator.total_pages > 1 %}
@@ -32,9 +45,9 @@ group: bloh
     {% if page == paginator.page %}
       <li class="active"><span>{{ page }}</span></li>
     {% elsif page == 1 %}
-      <li><a href="{{ '/news' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+      <li><a href="{{ '/blog' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
     {% else %}
-      <li><a href="{{ '/news/page:num' | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+      <li><a href="{{ '/blog/page:num' | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
     {% endif %}
   {% endfor %}
 
