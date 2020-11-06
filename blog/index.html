@@ -4,8 +4,10 @@ layout: default
 group: blog
 ---
 
-<div class="page-header"><h1 class="text-center"> Stephanie Wankowicz's Blog <br><small>_</small> </h1></div>
+<div class="page-header"><h1 class="text-center"> Stephanie Wankowicz's Blog <br><small>_</small>
+</div>
 <!-- This loops through the paginated posts -->
+
 {% for post in paginator.posts %}
   <hr>
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -24,10 +26,9 @@ group: blog
       <a href="{{ post.url }}">read more</a>
     {% endif %}
   </div>
-  <hr>
- <div class="clearfix visible-xs-block"></div>
-
 {% endfor %}
+<hr>
+
 
 <!-- This makes links to other paginator pages -->
 {% if paginator.total_pages > 1 %}
