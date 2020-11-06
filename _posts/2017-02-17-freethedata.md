@@ -1,5 +1,5 @@
 ---
-title: To my Democrat friends
+title: Free the Data!
 author: ''
 layout: post
 group: blog
