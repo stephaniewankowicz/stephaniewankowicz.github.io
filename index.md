@@ -15,7 +15,7 @@ I am a computational structural biologist with a special interest in combining h
 <br>
 <br>
 
-Currently, I am a Ph.D. Candidate at the University of California San Francisco in [James Fraser's lab](https://fraserlab.com/) building software tools to detect dynamics from static X-ray crystallography structures. Many of these dynamics occur at timescales that can only be uncovered by looking at the noise in high resolution X-ray cyrstallography or cryo-EM structures. My goal is to develop methods to improve modeling these dyanamics and to apply it to systems characterized by various perturbations or well described by various genomic techniques.
+Currently, I am a Ph.D. Candidate at the University of California San Francisco in [James Fraser's lab](https://fraserlab.com/) building software tools to detect dynamics from static X-ray crystallography structures. Many of these dynamics occur at timescales that can only be uncovered by looking at the noise in high resolution X-ray cyrstallography or cryo-EM structures. My goal is to develop methods to improve modeling these dynamics and to apply it to systems characterized by various perturbations or well described by various genomic techniques.
 
 <br>
 <br>
