@@ -10,9 +10,9 @@
   url: /blog
   group: blog
   
-- name: run every street
-  url: /run
-  group: runstreets
+#- name: run every street
+#  url: /run
+#  group: runstreets
   
 - name: contact
   url: /contact
