@@ -1,14 +1,21 @@
 - title: "Ligand binding remodels protein side chain conformational heterogeneity"
   citation: "**Wankowicz SA**, de Oliveira SHP,  Hogan DW, van den Bedem H, and Fraser JS"
-  date: '2021-09-21'
+  date: '2022-03-21'
   image: '/static/img/5a5n_OP_tubr.png'
-  # pmid: ''
+  pmid: '35312477'
+  journal: eLife
   # pmcid: ''
   biorxiv: '2021.09.21.461269'
   pdf: 'https://www.biorxiv.org/content/10.1101/2021.09.21.461269v1.full.pdf'
   links:
     - name: Celebratory Tweetstorm!
       url: https://twitter.com/stephanie_mul/status/1440719859554217989?s=20
+    - name: 'qFit 3.0'
+      url: https://github.com/ExcitedStates/qfit-3.0
+    - name: 'Analysis Code'
+      url: https://github.com/fraser-lab/Apo_Holo_Analysis
+    - name: 'Blog Post'
+      url: https://fraserlab.com/2022/03/26/structural-bioinformatics/
 
       
 - title: "qFit 3: Protein and ligand multiconformer modeling for X-ray crystallographic and single-particle cryo-EM density maps"
