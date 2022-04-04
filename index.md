@@ -10,7 +10,7 @@ group: home
 <img src="/static/img/banner_statehouse.jpg" class="img-responsive center-block" alt="Advocating for Science Research at the California Statehouse, January 2020"/>
 
 <p class="lead text-justify">
-I am a computational structural biologist with a special interest in combining high throughput genomic data with structural data. I love to use and create computational tools from different fields to answer questions we cannot currently probe using experimental methods. I frequently going 'dumpster diving' in various types of data to uncover previously unknown insights. 
+I am a computational structural biologist with a special interest in combining high throughput genomic data with structural data, especially with methods that can provide insight into protein dynamics and allostery. By combining these two field, along with machine learning, I think we can uncover new ways to classify cancer mutations. I love to create and use computational tools from different fields to answer questions we cannot currently probe using experimental methods. My current challenge I am trying to overcome is modeling partially occupied water molecules in multiconformer strucrtures. This will allow us to examine the energetics of water molecules in a more high throughput way.
 
 <br>
 <br>
