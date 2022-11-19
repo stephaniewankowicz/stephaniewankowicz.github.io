@@ -12,7 +12,7 @@ group: home
 <p class="lead text-justify">
 I am a computational structural biologist with a special interest in understand how proteins motions impact mutations and ligand and protein binding. I have built and applied new modeling of protein structures to detect the positions of residues together with the motion of these residues. Using this modeling I uncovered that protein entropic compensation is a common phenomenom in ligand binding. My goal is to develop methods to improve modeling protein motions and to apply it to systems characterized by various perturbations or well described by various genomic techniques.
   
-I am currently on the academic job market. My future research program will create new ways to model and measure conformational ensembles of macromolecules and solvent. These tools will quantify how conformational entropy modulates free energies, contributing to binding specificity, allostery, and catalysis. This research program will provide an unparalleled platform to examine macromolecular interactions' mechanisms comprehensively. 
+I am currently on the academic job market. My research program will create new ways to model and measure conformational ensembles of macromolecules and solvent. These tools will quantify how conformational entropy modulates free energies, contributing to binding specificity, allostery, and catalysis. This research program will provide an unparalleled platform to comprehensively examine macromolecular interactions' mechanisms. 
 
   
 <br>
