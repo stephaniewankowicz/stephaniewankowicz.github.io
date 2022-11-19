@@ -24,7 +24,7 @@ Currently, I am a Ph.D. Candidate in Biophysics at the University of California 
 
 <br>
 
-I am supported by a [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/), the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the D.E. Shaw Award for Computational Chemistry.
+I am supported by the [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/), the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the D.E. Shaw Award for Computational Chemistry.
 
 <br>
 <br>
