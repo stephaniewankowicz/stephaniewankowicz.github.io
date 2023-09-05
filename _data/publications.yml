@@ -1,3 +1,33 @@
+- title: "Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM"
+  citation: "**Wankowicz SA**, Ravikumar A, Sharma S, Riley B, Raju A, Hogan DW, van den Bedem H, Keedy DA, Fraser JS"
+  date: '2023-06-29'
+  image: '/static/img/5a5n_OP_tubr.png'
+  #pmid: '35312477'
+  journal: eLife
+  # pmcid: ''
+  biorxiv: '2023.06.28.546963v2'
+  #pdf: 'https://www.biorxiv.org/content/10.1101/2021.09.21.461269v1.full.pdf'
+  links:
+    - name: Celebratory Tweetstorm!
+      url: https://twitter.com/stephanie_mul/status/1674525173633142784?s=20
+    - name: 'qFit 3.0'
+      url: https://github.com/ExcitedStates/qfit-3.0
+      
+- title: "Refinement of Multiconformer Ensemble Models from Multi-temperature X-ray Diffraction Data"
+  citation: "Du S, **Wankowicz SA**, Yabukarski F, Doukov T, Herschlag D, Fraser JS"
+  date: '2023-05-29'
+  image: '/static/img/5a5n_OP_tubr.png'
+  #pmid: '35312477'
+  journal: Methods in Enzymology
+  # pmcid: ''
+  biorxiv: '2023.05.05.539620v1'
+  #pdf: 'https://www.biorxiv.org/content/10.1101/2021.09.21.461269v1.full.pdf'
+  links:
+    - name: Celebratory Tweetstorm!
+      url: https://twitter.com/stephanie_mul/status/1655642996589854720?s=20"
+    - name: "Herschlag lab @ Stanford University"
+      url: "http://herschlaglab.stanford.edu/"
+      
 - title: "Ligand binding remodels protein side chain conformational heterogeneity"
   citation: "**Wankowicz SA**, de Oliveira SHP,  Hogan DW, van den Bedem H, and Fraser JS"
   date: '2022-03-21'
