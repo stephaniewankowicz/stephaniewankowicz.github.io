@@ -10,7 +10,7 @@ group: home
 <img src="/static/img/banner_statehouse.jpg" class="img-responsive center-block" alt="Advocating for Science Research at the California Statehouse, January 2020"/>
 
 <p class="lead text-justify">
-I am a computational structural biologist with a special interest in understanding how proteins motions impact mutations and ligand and protein binding. I have built and applied new modeling of protein structures to detect the positions of residues together with the motion of these residues. Using this modeling, I uncovered that protein entropic compensation is a common phenomenon in ligand binding. My goal is to develop methods to improve modeling protein motions and to apply them to systems characterized by various perturbations or well-described by various genomic techniques.
+I am a structural biologist interested in understanding how protein motions impact mutations and ligand and protein binding. I have built and applied new modeling of protein structures to detect the positions of residues together with the motion of these residues. Using this modeling, I uncovered that protein entropic compensation is a common phenomenon in ligand binding. My goal is to develop methods to improve modeling protein motions and to apply them to systems characterized by various perturbations or well-described by various genomic techniques.
 
  <br>
   
