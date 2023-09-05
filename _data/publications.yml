@@ -1,7 +1,7 @@
 - title: "Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM"
   citation: "**Wankowicz SA**, Ravikumar A, Sharma S, Riley B, Raju A, Hogan DW, van den Bedem H, Keedy DA, Fraser JS"
   date: '2023-06-29'
-  image: '/static/img/2023_Wankowicz.jpg'
+  image: '/static/img/2023_wankowicz.jpg'
   #pmid: '35312477'
   journal: eLife
   # pmcid: ''
@@ -16,7 +16,7 @@
 - title: "Refinement of Multiconformer Ensemble Models from Multi-temperature X-ray Diffraction Data"
   citation: "Du S, **Wankowicz SA**, Yabukarski F, Doukov T, Herschlag D, Fraser JS"
   date: '2023-05-29'
-  image: '/static/img/2023_Du.jpg'
+  image: '/static/img/2023_du.jpg'
   #pmid: '35312477'
   journal: Methods in Enzymology
   # pmcid: ''
