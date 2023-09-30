@@ -10,29 +10,18 @@ group: home
 <img src="/static/img/banner_statehouse.jpg" class="img-responsive center-block" alt="Advocating for Science Research at the California Statehouse, January 2020"/>
 
 <p class="lead text-justify">
-I am a structural biologist interested in understanding how protein motions impact mutations and ligand and protein binding. I have built and applied new modeling of protein structures to detect the positions of residues together with the motion of these residues. Using this modeling, I uncovered that protein entropic compensation is a common phenomenon in ligand binding. My goal is to develop methods to improve modeling protein motions and to apply them to systems characterized by various perturbations or well-described by various genomic techniques.
-
- <br>
-  
-I am on the academic job market! My research program will create new ways to model and measure conformational ensembles of macromolecules and solvent. These tools will quantify how conformational entropy modulates free energies, contributing to binding specificity and catalysis. This research program will provide an unparalleled platform to comprehensively examine macromolecular interactions' mechanisms. 
-
-<br>
+I am a structural and computational biologist interested in understanding how protein dynamics impact function. I am especially interested in exploring this through the lens of conformational entropy. This entropy exists within a protein's folded state as it fluctuates between thermally accessible conformations. Proteins have likely evolved to modulate their conformational entropy to reduce the impact of conformational entropy loss during functional events such as binding or catalysis, occurring through two models: through increases in conformational entropy in spatially distant areas from the functional site or by pre-paying entropic costs through ordering in the ground state. I have created new modeling techniques to detect dynamics from X-ray crystallography and Cryo-EM structure, showing that protein conformational entropy can modulate the free binding energy by at least 1-2 kcal/mol (about the equivalent of a hydrogen bond), and my future work will focus on uncovering how conformational entropy manipulated enzyme specificity.
 <br>
 
-Currently, I am a scientist at the University of California San Francisco in [James Fraser's lab](https://fraserlab.com/) (where I also got my Ph.D.), examining the concept of conformational entropy. Conformational entropy is the residual entropy that persists in the protein's native state conformational ensemble as it fluctuates between related conformations. I have created new modeling techniques to detect dynamics from X-ray crystallography and Cryo-EM structure showing that protein conformational entropy can modulate the free binding energy by at least 1-2 kcal/mol (about the equivalent of a hydrogen bond) and am interested in applying this to enzyme binding and catalysis. 
-
-The current challenge I am trying to overcome is modeling partially occupied water molecules in multiconformer structures. This will allow us to examine the energetics of water molecules in a more high throughput way. 
-
-I am also testing our ideas on conformational entropy prospectively, applying it to ligand design. 
-
-
-
+Enzyme specificity is pivotal to biochemical processes in living systems. While the basis for this specificity has traditionally been attributed to the static interactions between the substrate and the enzyme's catalytic residues, the role of protein dynamics has been comparatively underappreciated. The interplay between enzyme dynamics not only affects catalysis but also introduces entropic factors during substrate recognition. However, the intricacies of entropic contributions, especially in catalysis, are often sidelined due to the inherent difficulties in their accurate modeling and quantification. My research initiative is dedicated to delineating the role of entropy in both substrate recognition and catalysis, aiming to provide a comprehensive mechanistic insight into enzymatic function. By developing novel methodologies to derive entropy values from X-ray crystallography and CryoEM data, I am poised to integrate enthalpic and entropic contributions in molecular interactions. This endeavor will revolutionize our understanding of how substrate chemistry and genetic perturbations influence the thermodynamics of substrate binding and catalysis, potentially heralding a new era in targeted ligand and protein engineering.
+<br>
+<br>
 
 
 <br>
 <br>
 
-During my Ph.D., I was supported by the [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/), the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the D.E. Shaw Award for Computational Chemistry.
+Currently, I am a scientist at the University of California San Francisco in James Fraser’s lab (where I also got my Ph.D.), examining the concept of conformational entropy and applying this to SARS-CoV2 drug design. This is supported by a research award from the [U19 UCSF AVIDD grant](https://qbi.ucsf.edu/qcrgAViDD) and through the [Chan Zuckerberg Initiative Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/proposals/integrating-the-software-toolkit-for-protein-structure-modeling/). During my Ph.D., I was supported by the [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/), the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the D.E. Shaw Award for Computational Chemistry.
 
 <br>
 <br>
