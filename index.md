@@ -37,10 +37,12 @@ During my Ph.D., I was supported by the [Graduate Research Fellowship from the N
 <br>
 <br>
 
-Previously, I was a computational biologist in [Eli Van Allen's lab](https://vanallenlab.dana-farber.org/) at Dana-Farber Cancer Institute/Broad Institute. My work involved understanding the connection between tumor/germline genetics and response to therapy in genitourinary cancers. Before that, I was a Research Data Specialist in the Genitourinary Department at Dana-Farber Cancer Institute where I managed clinical and translational projects in the Bladder Cancer Research Center. I graduated from the University of Massachusetts Amherst with a degree in Biochemistry and Molecular Biology. 
+Previously, I was a computational biologist in [Eli Van Allen's lab](https://vanallenlab.dana-farber.org/) at Dana-Farber Cancer Institute/Broad Institute. My work involved understanding the relationship between tumor/germline genetics and response to therapy in genitourinary cancers using high throughput RNA, whole exome, and whole genome sequence. 
 
+<br>
+Prior to that, I served as a Research Data Specialist in the Genitourinary Department at Dana-Farber Cancer Institute, overseeing clinical and translational projects for the Bladder Cancer Research Center. I hold a degree in Biochemistry and Molecular Biology from the University of Massachusetts Amherst.
 <br>
 <br>
 
-Outside of science, I love biking and running around the Bay Area. On the weekends, I am frequently hiking or skiing in the Mountains.  
+Outside of science, I love running and biking around the Bay Area. On the weekends, I am frequently hiking or skiing in the Mountains.  
 </p>
