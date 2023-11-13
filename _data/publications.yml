@@ -1,7 +1,7 @@
 
 - title: "Making sense of chaos: uncovering the mechanisms of conformational entropy"
   citation: "**Wankowicz SA**, Fraser JS"
-  date: '2023-10-04'
+  date: '2023-10-14'
   image: '/static/img/2023_wankowicz_2.jpg'
   #pmid: '35312477'
   journal: ChemRxiv
@@ -10,8 +10,21 @@
   links:
     - name: Celebratory Tweetstorm!
       url: https://twitter.com/stephanie_mul/status/1709613491328594371
-     
-  
+
+
+- title: "Comprehensive Encoding of Conformational and Compositional Protein Structural Ensembles through mmCIF Data Structure"
+  citation: "**Wankowicz SA**, Fraser JS"
+  date: '2023-10-10'
+  image: '/static/img/2023_wankowicz_3.jpg'
+  #pmid: '37425870'
+  journal: ChemRxiv
+  # pmcid: ''
+  #biorxiv: '2023.06.28.546963v2'
+  pdf: 'https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/653c4dc2a8b423585a693655/original/comprehensive-encoding-of-conformational-and-compositional-protein-structural-ensembles-through-mm-cif-data-structure.pdf'
+  links:
+    - name: Celebratory Tweetstorm!
+      url: https://twitter.com/stephanie_mul/status/1719033771494928777
+
 - title: "Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM"
   citation: "**Wankowicz SA**, Ravikumar A, Sharma S, Riley B, Raju A, Hogan DW, van den Bedem H, Keedy DA, Fraser JS"
   date: '2023-06-29'
