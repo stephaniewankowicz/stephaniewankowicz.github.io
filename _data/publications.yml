@@ -2,7 +2,7 @@
 - title: "Making sense of chaos: uncovering the mechanisms of conformational entropy"
   citation: "**Wankowicz SA**, Fraser JS"
   date: '2023-10-14'
-  image: '/static/img/2023_wankowicz_2.jpg'
+  image: '/static/img/2023_wankowicz_2.png'
   #pmid: '35312477'
   journal: ChemRxiv
   # pmcid: ''
@@ -15,7 +15,7 @@
 - title: "Comprehensive Encoding of Conformational and Compositional Protein Structural Ensembles through mmCIF Data Structure"
   citation: "**Wankowicz SA**, Fraser JS"
   date: '2023-10-10'
-  image: '/static/img/2023_wankowicz_3.jpg'
+  image: '/static/img/2023_wankowicz_3.png'
   #pmid: '37425870'
   journal: ChemRxiv
   # pmcid: ''
