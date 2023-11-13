@@ -1,12 +1,26 @@
+
+- title: "Making sense of chaos: uncovering the mechanisms of conformational entropy"
+  citation: "**Wankowicz SA**, Fraser JS"
+  date: '2023-10-04'
+  image: '/static/img/2023_wankowicz_2.jpg'
+  #pmid: '35312477'
+  journal: ChemRxiv
+  # pmcid: ''
+  pdf: 'https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6518600200659409122ffde5/original/making-sense-of-chaos-uncovering-the-mechanisms-of-conformational-entropy.pdf'
+  links:
+    - name: Celebratory Tweetstorm!
+      url: https://twitter.com/stephanie_mul/status/1709613491328594371
+     
+  
 - title: "Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM"
   citation: "**Wankowicz SA**, Ravikumar A, Sharma S, Riley B, Raju A, Hogan DW, van den Bedem H, Keedy DA, Fraser JS"
   date: '2023-06-29'
   image: '/static/img/2023_wankowicz.jpg'
-  #pmid: '35312477'
+  pmid: '37425870'
   journal: eLife
   # pmcid: ''
-  biorxiv: '2023.06.28.546963v2'
-  #pdf: 'https://www.biorxiv.org/content/10.1101/2021.09.21.461269v1.full.pdf'
+  #biorxiv: '2023.06.28.546963v2'
+  pdf: 'https://www.biorxiv.org/content/10.1101/2023.06.28.546963v2.full.pdf'
   links:
     - name: Celebratory Tweetstorm!
       url: https://twitter.com/stephanie_mul/status/1674525173633142784?s=20
