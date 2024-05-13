@@ -31,6 +31,7 @@ I am a scientist at the University of California San Francisco in James Fraserâ€
 Currently, I am on the academic job market.  My CV can be found [here](/static/pdf/Wankowicz_CV_20230921.pdf). 
 
 <br>
+<br>
 
 Previously, I was a computational biologist in [Eli Van Allen's lab](https://vanallenlab.dana-farber.org/) at Dana-Farber Cancer Institute/Broad Institute. My work involved understanding the relationship between tumor/germline genetics and response to therapy in genitourinary cancers using high throughput RNA, whole exome, and whole genome sequence. 
 
