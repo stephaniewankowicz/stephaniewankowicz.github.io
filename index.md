@@ -19,14 +19,17 @@ The basis for macromolecular specificity has traditionally been attributed to th
 
 <br>
 My work investigates the role of entropy in both substrate recognition and catalysis, aiming to provide a comprehensive mechanistic insight into enzymatic function. We hope this will revolutionize our understanding of how substrate chemistry and genetic perturbations influence the thermodynamics of substrate binding and catalysis, potentially heralding a new era in targeted ligand and protein engineering.
-<br>
-My CV can be found [here](/static/pdf/Wankowicz_CV_20230921.pdf). 
+
 <br>
 <br>
 
-Currently, I am a scientist at the University of California San Francisco in James Fraser’s lab (where I also got my Ph.D.), examining the concept of conformational entropy and applying this to SARS-CoV2 drug design. This is supported by a research award from the [U19 UCSF AVIDD grant](https://qbi.ucsf.edu/qcrgAViDD) and through the [Chan Zuckerberg Initiative Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/proposals/integrating-the-software-toolkit-for-protein-structure-modeling/). During my Ph.D., I was supported by the [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/), the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the D.E. Shaw Award for Computational Chemistry.
+I am a scientist at the University of California San Francisco in James Fraser’s lab (where I also got my Ph.D.), examining the concept of conformational entropy and applying this to SARS-CoV2 drug design. This is supported by a research award from the [U19 UCSF AVIDD grant](https://qbi.ucsf.edu/qcrgAViDD) and through the [Chan Zuckerberg Initiative Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/proposals/integrating-the-software-toolkit-for-protein-structure-modeling/). During my Ph.D., I was supported by the [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/), the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the D.E. Shaw Award for Computational Chemistry.
 
 <br>
+<br>
+
+Currently, I am on the academic job market.  My CV can be found [here](/static/pdf/Wankowicz_CV_20230921.pdf). 
+
 <br>
 
 Previously, I was a computational biologist in [Eli Van Allen's lab](https://vanallenlab.dana-farber.org/) at Dana-Farber Cancer Institute/Broad Institute. My work involved understanding the relationship between tumor/germline genetics and response to therapy in genitourinary cancers using high throughput RNA, whole exome, and whole genome sequence. 
