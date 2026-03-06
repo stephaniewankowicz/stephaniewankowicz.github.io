@@ -1,0 +1,35 @@
+---
+title: The Tortured Proteins Department
+layout: default
+group: podcast
+---
+
+<h1>The Tortured Proteins Department</h1>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2">
+
+<p class="lead">A podcast hosted by <strong>Stephanie Wankowicz</strong> and <a href="https://fraserlab.com/">James Fraser</a> covering the latest in structural biology, protein dynamics, scientific policy, and life in academia.</p>
+
+<p>
+  <a href="https://podcasts.apple.com/us/podcast/the-tortured-proteins-department/id1802420696"><i class="fa fa-podcast fa-2x"></i> Apple Podcasts</a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/show/10PHVouHr7pY8Q1p4QJ2EQ"><i class="fa fa-spotify fa-2x"></i> Spotify</a>
+</p>
+
+<hr>
+
+<h2>Episodes</h2>
+
+{% assign podcast_posts = site.posts | where_exp: "post", "post.tags contains 'podcast'" %}
+{% for post in podcast_posts %}
+<div style="padding-bottom: 15px;">
+  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+  <p class="text-muted"><em>{{ post.date | date_to_long_string }}</em></p>
+</div>
+<hr>
+{% endfor %}
+
+</div>
+</div>
+</div>
