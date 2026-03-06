@@ -7,7 +7,7 @@ group: home
 
 <h1 class="text-center">Stephanie A. Wankowicz</h1>
 
-<img src="/static/img/banner_statehouse.jpg" class="img-responsive center-block" alt="Advocating for Science Research at the California Statehouse, January 2020"/>
+<img src="/static/img/banner_statehouse.jpg" class="img-responsive center-block" style="max-width: 50%;" alt="Advocating for Science Research at the California Statehouse, January 2020"/>
 
 <p class="lead text-justify">
 I am a computational structural biologist interested in understanding how protein dynamics impact function. My work uses computational algorithms to model more of the existing conformational ensemble but is often not modeled in structural biology experimental data. 
