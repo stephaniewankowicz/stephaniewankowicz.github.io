@@ -27,25 +27,25 @@ My work investigates the role of entropy in both substrate recognition and catal
 <br>
 <br>
 
-I am a scientist at the University of California San Francisco in James Fraser’s lab (where I also got my Ph.D.), examining the concept of conformational entropy and applying this to SARS-CoV2 drug design. This is supported by a research award from the [U19 UCSF AVIDD grant](https://qbi.ucsf.edu/qcrgAViDD) and through the [Chan Zuckerberg Initiative Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/proposals/integrating-the-software-toolkit-for-protein-structure-modeling/). During my Ph.D., I was supported by the [Graduate Research Fellowship from the National Science Foundation](https://www.nsfgrfp.org/), the [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the D.E. Shaw Award for Computational Chemistry.
+Stephanie earned her bachelor’s degree in Biochemistry and Molecular Biology from the University of Massachusetts, Amherst, where she researched the economics of the Clean Water Act under Dr. Paul Kolkoswki. After graduating, she worked as a Data Specialist at Dana-Farber Cancer Institute in the Lank Center for Genitourinary Oncology, managing the Bladder Cancer Translational Research Center under Joaquim Bellmunt. During this time, she performed clinical and translational research, being the first to identify the relationship between the expression of PD-L1, an immune checkpoint marker, and overall survival in metastatic bladder cancer, helping to pave the way for using immunotherapy in bladder cancer.
 
 <br>
 <br>
 
-Currently, I am on the academic job market.  My CV can be found [here](/static/pdf/Wankowicz_CV_20230921.pdf). 
+Subsequently, Stephanie worked as a computational biologist at the Dana-Farber Cancer Institute and the Broad Institute of MIT and Harvard, working in Eli Van Allen’s lab. There, she developed algorithms utilizing high-throughput genomics data to assess responses to oncology treatments and survival. She led the largest study of prostate cancer exomes, identifying new genes and pathways commonly mutated in prostate cancer. Additionally, she helped identify genetic biomarkers for immunotherapy, targeted therapy, and chemotherapy.
 
 <br>
 <br>
 
-Previously, I was a computational biologist in [Eli Van Allen's lab](https://vanallenlab.dana-farber.org/) at Dana-Farber Cancer Institute/Broad Institute. My work involved understanding the relationship between tumor/germline genetics and response to therapy in genitourinary cancers using high throughput RNA, whole exome, and whole genome sequence. 
+In 2018, Stephanie began her graduate career in the Biophysics program at UCSF, working in James Fraser’s lab. She developed computational tools to automatically construct conformational ensembles from X-ray crystallography and cryo-EM data, extracting low-populated but biologically important states of macromolecules. Leveraging structural bioinformatics, she uncovered the spatial redistribution of entropy in ligand binding. Her graduate studies were supported by fellowships from NSF, UCSF Discovery Fellows Program, and the UCSF Antiviral Drug Discovery Program. Her work has been recognized through many awards, including D.E. Shaw Computational Chemistry Fellowship, Intersections Science Fellowship, UCSF Mentorship Award, and Penn Rising Stars in Biophysics and Biochemistry.
 
 <br>
 <br>
 
-Before that, I served as a Research Data Specialist in the Genitourinary Department at Dana-Farber Cancer Institute, overseeing clinical and translational projects for the Bladder Cancer Research Center. I hold a Biochemistry and Molecular Biology degree from the University of Massachusetts Amherst.
+In 2024, Stephanie opened her lab at Vanderbilt University in the Molecular Physiology and Biophysics Department, Center for AI in Protein Dynamics, and Center for Structural Biology. She is also a faculty member of the Biochemistry and Computer Science Departments. Learn more about our current research here.
 
 <br>
 <br>
 
-Outside of science, I love running and biking around the Bay Area. On the weekends, I frequently hike or ski in the Mountains.  
+Outside of the lab, you are most likely to find Stephanie running on the road or trail!
 </p>
