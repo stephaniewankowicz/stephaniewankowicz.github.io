@@ -1,594 +1,508 @@
-- title: "AlphaFold3 Transparency and Reproducibility"
-  citation: "**Wankowicz SA**, Beltrao P, Cravatt B, Dunbrack R, Gitter A, Lindorff-Larsen K, Ovchinnikov S, Polizzi N, Shoichet B, **Fraser JS**"
-  date: "2024-04-11" #Date of publication. Change from Biorxiv date to Journal date once accepted
-  image: "/static/img/pub/2024_wankowicz.png" #Minimum dimensions TBD
-  journal: Zenodo
-  pdf: "https://zenodo.org/records/11391920"
+- title: "Binding Entropy Can Be Predicted by Crystallographic Ensembles"
+  citation: "**Miller CA**, **Wankowicz SA**. *bioRxiv*. 2026."
+  date: '2026-01-20'
+  image: '/static/img/pub/2026_Miller.jpg'
+  pdf: 'https://doi.org/10.64898/2026.01.19.699807'
 
+- title: "Crystallographic Ensembles Reveal the Structural Basis of Binding Entropy in SARS-CoV2 Macrodomain"
+  citation: "**Seo L**, **Farran I**, **Aslam A**, **Li X**, Jaishankar P, Ashworth A, Fraser JS, Renslo AR, **Wankowicz SA**. *bioRxiv*. 2025."
+  date: '2025-11-26'
+  image: '/static/img/pub/2025_Seo.jpg'
+  pdf: 'https://doi.org/10.1101/2025.11.25.690589'
+  pdbs:
+    - 13VB
+    - 13VC
+
+- title: "10 Rules for a Structural Bioinformatic Analysis"
+  citation: "**Wankowicz SA**. *PLoS Computational Biology*. 2025."
+  date: '2025-10-17'
+  image: '/static/img/pub/2025_Wankowicz2.png'
+  pdf: 'https://doi.org/10.26434/chemrxiv-2025-rgw79'
+
+- title: "Expanding Automated Multiconformer Ligand Modeling to Macrocycles and Fragments"
+  citation: "Flowers J, Echols N, Correy G, Jaishankar P, Togo T, Renslo AR, van den Bedem H, Fraser JS, **Wankowicz SA**. *eLife*. 2025."
+  date: '2025-07-01'
+  image: '/static/img/pub/2024_flowers.jpg'
+  pmid: '40586518'
+  pdf: 'https://elifesciences.org/articles/103797'
+  pdbs:
+    - 7HHS
+    - 7HHT
+    - 7HHU
+    - 7HHV
+    - 7HHW
+    - 7HHX
+    - 7HHY
+    - 7HHZ
+    - 7HI0
+    - 7HI1
+    - 7HI2
+    - 7HI3
+    - 7HI4
+    - 7HI5
+    - 7HI6
+    - 7HI7
   links:
-  - name: "Retraction Watch - \"Nature earns ire over lack of code availability for Google DeepMind protein folding paper\""
-    url: https://retractionwatch.com/2024/05/14/nature-earns-ire-over-lack-of-code-availability-for-google-deepmind-protein-folding-paper/
-  - name: "Science - \"ScienceInsider: Limits on access to DeepMind’s new protein program trigger backlash\""
-    url: https://www.science.org/content/article/limits-access-deepmind-s-new-protein-program-trigger-backlash
-  - name: "C&EN - \"AlphaFold 3 to offer structure prediction via web browser\""
-    url: https://cen.acs.org/analytical-chemistry/structural-biology/AlphaFold-3-offer-structure-prediction/102/i15
-  - name: "Nature Editorial - \"AlphaFold3 — why did Nature publish it without its code?\""
-    url: https://www.nature.com/articles/d41586-024-01463-0
-  - name: "Nature News - \"Who will make AlphaFold3 open source? Scientists race to crack AI model\""
-    url: https://www.nature.com/articles/d41586-024-01555-x
+  - name: Fraser lab @ UCSF
+    url: https://fraserlab.com/
+  - name: Renslo lab @ UCSF
+    url: https://pharm.ucsf.edu/renslo
 
+- title: "From Possibility to Precision in Macromolecular Ensemble Prediction"
+  citation: "**Wankowicz SA**, Bonomi M. *arXiv*. 2025."
+  date: '2025-05-05'
+  image: '/static/img/pub/2025_Wankowicz.jpg'
+  pdf: 'https://doi.org/10.48550/arXiv.2505.01919'
 
-- title: "Making sense of chaos: uncovering the mechanisms of conformational entropy"
-  citation: "**Wankowicz SA**, Fraser JS"
-  date: '2023-10-14'
-  image: '/static/img/2023_wankowicz_2.png'
-  #pmid: '35312477'
-  journal: ChemRxiv
-  # pmcid: ''
-  pdf: 'https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6518600200659409122ffde5/original/making-sense-of-chaos-uncovering-the-mechanisms-of-conformational-entropy.pdf'
+- title: "Advances in uncovering the mechanisms of macromolecular conformational entropy"
+  citation: "**Wankowicz SA**, Fraser JS. *Nature Chemical Biology*. 2025."
+  date: '2025-04-24'
+  image: '/static/img/pub/2023_Wankowicz_2.png'
+  pmid: '40275100'
+  chemrxiv: 2023-9b5k7-v3
+  pdf: 'https://doi.org/10.1038/s41589-025-01879-3'
   links:
-    - name: Celebratory Tweetstorm!
-      url: https://twitter.com/stephanie_mul/status/1709613491328594371
+  - name: "Celebratory tweetstorm from Stephanie Wankowicz"
+    url: "https://twitter.com/stephanie_mul/status/1709613491328594371"
 
+- title: "Modeling Bias Toward Binding Sites in PDB Structural Models"
+  citation: "**Wankowicz SA**. *bioRxiv*. 2024."
+  date: '2024-12-15'
+  image: '/static/img/pub/2024_Wankowicz_2.png'
+  pdf: 'https://doi.org/10.1101/2024.12.14.628518'
+  links:
+  - name: "Celebratory Skytorial from Stephanie Wankowicz"
+    url: https://bsky.app/profile/stephanieaw.bsky.social/post/3ldgmln4dy22k
+
+- title: "Dynamic allostery drives autocrine and paracrine TGF-β signaling"
+  citation: "Jin M, Seed RI, Cai G, Shing T, Wang L, Ito S, Cormier A, **Wankowicz SA**, Jespersen JM, Baron JL, Carey ND, Campbell MG, Yu Z, Tang PK, Cossio P, Wen W, Lou J, Marks J, Nishimura SL, Cheng Y. *Cell*. 2024."
+  date: '2024-09-16'
+  image: '/static/img/pub/2024_jin.jpg'
+  pmid: '39288764'
+  pdf: 'https://doi.org/10.1016/j.cell.2024.08.036'
+
+- title: "A renewed call for open artificial intelligence in biomedicine"
+  citation: "Gitter A, Fraser JS, Gonen T, Patro R, Wayment-Steele HK, Williams A, Haibe-Kains B, Dunbrack RL, Cook C, Kundaje A, Hoffman MM, Carpenter AE, **Wankowicz SA**, Lindorff-Larsen K. *OSF Preprints*. 2024."
+  date: '2024-09-13'
+  image: '/static/img/pub/2024_gitter.png'
 
 - title: "Comprehensive Encoding of Conformational and Compositional Protein Structural Ensembles through mmCIF Data Structure"
-  citation: "**Wankowicz SA**, Fraser JS"
-  date: '2023-10-10'
-  image: '/static/img/2023_wankowicz_3.png'
-  #pmid: '37425870'
-  journal: ChemRxiv
-  # pmcid: ''
-  #biorxiv: '2023.06.28.546963v2'
-  pdf: 'https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/653c4dc2a8b423585a693655/original/comprehensive-encoding-of-conformational-and-compositional-protein-structural-ensembles-through-mm-cif-data-structure.pdf'
+  citation: "**Wankowicz SA**, Fraser JS. *IUCrJ*. 2024."
+  date: '2024-07-01'
+  image: '/static/img/pub/2023_wankowicz_3.jpg'
+  pmid: '38958015'
+  chemrxiv: 2023-ggd1w-v3
+  pdf: 'https://doi.org/10.1107/S2052252524005098'
   links:
-    - name: Celebratory Tweetstorm!
-      url: https://twitter.com/stephanie_mul/status/1719033771494928777
+  - name: "Celebratory tweetstorm from Stephanie Wankowicz"
+    url: https://twitter.com/stephanie_mul/status/1719033771494928777
 
-- title: "Uncovering Protein Ensembles: Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM"
-  citation: "**Wankowicz SA**, Ravikumar A, Sharma S, Riley B, Raju A, Hogan DW, van den Bedem H, Keedy DA, Fraser JS"
-  date: '2023-06-29'
-  image: '/static/img/2023_wankowicz.jpg'
-  pmid: '37425870'
-  journal: eLife
-  # pmcid: ''
-  #biorxiv: '2023.06.28.546963v2'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2023.06.28.546963v2.full.pdf'
+- title: "Automated Multiconformer Model Building for X-ray Crystallography and Cryo-EM"
+  citation: "**Wankowicz SA**, Ravikumar A, Sharma S, Riley B, Raju A, Flowers J, Hogan DW, van den Bedem H, Keedy DA, Fraser JS. *eLife*. 2024."
+  date: '2024-06-21'
+  image: '/static/img/pub/2023_wankowicz.jpg'
+  pmid: '38904665'
+  pdf: 'https://doi.org/10.7554/eLife.90606.2.sa3'
+  zenodo:
+    - code: "10936292"
+      description: "qFit modeled PDBs"
   links:
-    - name: Celebratory Tweetstorm!
-      url: https://twitter.com/stephanie_mul/status/1674525173633142784?s=20
-    - name: 'qFit 3.0'
-      url: https://github.com/ExcitedStates/qfit-3.0
-      
+  - name: Keedy lab @ CUNY Advanced Science Research Center
+    url: https://keedylab.org/
+  - name: Fraser Lab @ UCSF
+    url: https://fraserlab.com/
+  - name: "Celebratory tweetstorm from Stephanie Wankowicz"
+    url: https://twitter.com/stephanie_mul/status/1674525173633142784?s=20
+
+- title: "Ten recommendations for hosting a Diversity, Equity, Inclusion, and Justice (DEIJ) journal club"
+  citation: "Díaz RE, **Wankowicz SA**. *PLoS Computational Biology*. 2024."
+  date: '2024-06-06'
+  image: '/static/img/pub/2024_Diaz.jpeg'
+  pmid: '38843155'
+  pdf: 'https://doi.org/10.1371/journal.pcbi.1012166'
+  links:
+  - name: "Celebratory tweetstorm from Stephanie Wankowicz"
+    url: https://x.com/stephanie_mul/status/1798832030161215555
+  - name: "Link to DEI Paper Repository"
+    url: https://docs.google.com/spreadsheets/d/1SkNPA79LzgjAjlSoXlVvOziC8XJA3DplSHWAQcY4NAg/edit#gid=0
+
+- title: "AlphaFold3 Transparency and Reproducibility"
+  citation: "**Wankowicz SA**, Beltrao P, Cravatt B, Dunbrack R, Gitter A, Lindorff-Larsen K, Ovchinnikov S, Polizzi N, Shoichet B, Fraser JS. *Zenodo*. 2024."
+  date: '2024-04-11'
+  image: '/static/img/pub/2024_wankowicz.png'
+  zenodo:
+    - code: "11391920"
+      description: "Open letter and endorsement list"
+  links:
+  - name: "Retraction Watch - Nature earns ire over lack of code availability for Google DeepMind protein folding paper"
+    url: https://retractionwatch.com/2024/05/14/nature-earns-ire-over-lack-of-code-availability-for-google-deepmind-protein-folding-paper/
+  - name: "Science - ScienceInsider: Limits on access to DeepMind's new protein program trigger backlash"
+    url: https://www.science.org/content/article/limits-access-deepmind-s-new-protein-program-trigger-backlash
+  - name: "Nature Editorial - AlphaFold3: why did Nature publish it without its code?"
+    url: https://www.nature.com/articles/d41586-024-01463-0
+  - name: "Nature News - Who will make AlphaFold3 open source? Scientists race to crack AI model"
+    url: https://www.nature.com/articles/d41586-024-01555-x
+  - name: "Undark - Why AlphaFold 3 Needs to Be Open Source"
+    url: https://undark.org/2024/06/06/opinion-alphafold-3-open-source/
+  - name: "GEN/EDGE - AlphaFold 3 Angst: Limited Accessibility Stirs Outcry from Researchers"
+    url: https://www.genengnews.com/topics/artificial-intelligence/alphafold-3-angst-limited-accessibility-stirs-outcry-from-researchers/
+
 - title: "Refinement of Multiconformer Ensemble Models from Multi-temperature X-ray Diffraction Data"
-  citation: "Du S, **Wankowicz SA**, Yabukarski F, Doukov T, Herschlag D, Fraser JS"
-  date: '2023-05-29'
-  image: '/static/img/2023_du.jpg'
-  #pmid: '35312477'
-  journal: Methods in Enzymology
-  # pmcid: ''
-  biorxiv: '2023.05.05.539620v1'
-  #pdf: 'https://www.biorxiv.org/content/10.1101/2021.09.21.461269v1.full.pdf'
+  citation: "Du S, **Wankowicz SA**, Yabukarski F, Doukov T, Herschlag D, Fraser JS. *Methods in Enzymology*. 2023."
+  date: '2023-07-27'
+  image: '/static/img/pub/2023_du.jpg'
+  pmid: '37748828'
+  pmcid: 'PMC10637719'
+  pdf: 'https://doi.org/10.1101/2023.05.05.539620'
+  pdbs:
+    - 8SOG
+    - 8SQV
+    - 8SPL
+    - 8SOV
+    - 8SOU
   links:
-    - name: Celebratory Tweetstorm!
-      url: https://twitter.com/stephanie_mul/status/1655642996589854720?s=20"
-    - name: "Herschlag lab @ Stanford University"
-      url: "http://herschlaglab.stanford.edu/"
-      
+  - name: "Herschlag lab @ Stanford University"
+    url: "http://herschlaglab.stanford.edu/"
+  - name: "Celebratory tweetstorm from Stephanie Wankowicz"
+    url: "https://twitter.com/stephanie_mul/status/1655642996589854720?s=20"
+
 - title: "Ligand binding remodels protein side chain conformational heterogeneity"
-  citation: "**Wankowicz SA**, de Oliveira SHP,  Hogan DW, van den Bedem H, and Fraser JS"
+  citation: "**Wankowicz SA**, de Oliveira SHP, Hogan DW, van den Bedem H, Fraser JS. *eLife*. 2022."
   date: '2022-03-21'
-  image: '/static/img/5a5n_OP_tubr.png'
+  image: '/static/img/pub/2021_wankowicz.jpg'
   pmid: '35312477'
-  journal: eLife
-  # pmcid: ''
-  biorxiv: '2021.09.21.461269'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2021.09.21.461269v1.full.pdf'
+  pmcid: 'PMC9084896'
+  biorxiv: '2021.09.21.461269v1'
+  pdf: 'https://doi.org/10.7554/eLife.74114'
   links:
-    - name: Celebratory Tweetstorm!
-      url: https://twitter.com/stephanie_mul/status/1440719859554217989?s=20
-    - name: 'qFit 3.0'
-      url: https://github.com/ExcitedStates/qfit-3.0
-    - name: 'Analysis Code'
-      url: https://github.com/fraser-lab/Apo_Holo_Analysis
-    - name: 'Blog Post'
-      url: https://fraserlab.com/2022/03/26/structural-bioinformatics/
+  - name: "Celebratory Tweetstorm by Stephanie Wankowicz"
+    url: "https://twitter.com/stephanie_mul/status/1440719859554217989?s=20"
+  - name: "Blog Post: So you want to do a structural bioinformatic analysis"
+    url: "https://fraserlab.com/2022/03/26/structural-bioinformatics/"
 
-      
-- title: "qFit 3: Protein and ligand multiconformer modeling for X-ray crystallographic and single-particle cryo-EM density maps"
-  citation: "Riley BT, **Wankowicz SA**, de Oliveira SHP, van Zundert GCP, Hogan DW, Fraser JS, Keedy DA, and van den Bedem H"
-  date: '2020-09-03'
-  image: '/static/img/2020_riley.jpg'
-  # pmid: ''
-  # pmcid: ''
-  biorxiv: '2020.09.03.280222'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2020.09.03.280222v1.full.pdf'
-  links:
-    - name: Keedy Lab @ CUNY Advanced Science Research Center
-      url: https://keedylab.org/
-    - name: qFit 3 code at Github
-      url: https://github.com/ExcitedStates/qfit-3.0
+- title: "A patient-driven clinicogenomic partnership for metastatic prostate cancer"
+  citation: "Crowdis J, Balch S, Sterlin L, Thomas BS, Camp SY, Dunphy M, Anastasio E, Shah S, Damon AL, Ramos R, Sosa DM, Small IK, Tomson BN, Nguyen CM, McGillicuddy M, Chastain PS, He MX, Cheung ATM, **Wankowicz SA**, Tewari AK, Kim D, AlDubayan SH, Dowdye A, Zola B, Nowak J, Manarite J, Henry Gunn I, Olson B, Lander ES, Painter CA, Wagle N, Van Allen EM. *Cell Genomics*. 2022."
+  date: '2022-02-01'
+  image: '/static/img/pub/2022_Crowdis.png'
+  pmid: '36177448'
+  biorxiv: '2021.07.09.451849'
+  pdf: 'https://doi.org/10.1016/j.xgen.2022.100169'
 
-
-- title: "Ensemble refinement produces consistent R-free values but smaller ensemble sizes than previously reported."
-  citation: "**Wankowicz SA**, Fraser JS"
-  date: '2020-01-01'
-  image: '/static/img/2020_wankowicz.png'
-  # pmid: ''
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.phenix-online.org/newsletter/CCN_2020_01.pdf'
-  links:
-    - name: PHENIX
-      url: https://www.phenix-online.org
-    - name: PHENIX Computational Crystallography Newsletter
-      url: https://www.phenix-online.org/newsletter/
-
-- title: 'A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing.'
-  citation: "Gordon DE&#42;, Jang GM&#42;, Bouhaddou M&#42;, Xu J&#42;, Obernier K&#42;, White KM&#42;, O'Meara MJ&#42;, Rezelj VV&#42;, Guo JZ, Swaney DL, Tummino TA, Huttenhain R, Kaake RM, Richards AL, Tutuncuoglu B, Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM, Eckhardt M, Soucheray M, Bennett MJ, Cakir M, McGregor MJ, Li Q, Meyer B, Roesch F, Vallet T, Mac Kain A, Miorin L, Moreno E, Naing ZZC, Zhou Y, Peng S, Shi Y, Zhang Z, Shen W, Kirby IT, Melnyk JE, Chorba JS, Lou K, Dai SA, Barrio-Hernandez I, Memon D, Hernandez-Armenta C, Lyu J, Mathy CJP, Perica T, Pilla KB, Ganesan SJ, Saltzberg DJ, Rakesh R, Liu X, Rosenthal SB, Calviello L, Venkataramanan S, Liboy-Lugo J, Lin Y, Huang XP, Liu Y, **Wankowicz SA**, Bohn M, Safari M, Ugur FS, Koh C, Savar NS, Tran QD, Shengjuler D, Fletcher SJ, O'Neal MC, Cai Y, Chang JCJ, Broadhurst DJ, Klippsten S, Sharp PP,  Wenzell NA, Kuzuoglu D, Wang HY, Trenker R, Young JM, Cavero DA, Hiatt J, Roth TL, Rathore U, Subramanian A, Noack J, Hubert M, Stroud RM, Frankel AD, Rosenberg OS, Verba KA, Agard D, Ott M, Emerman M, Jura N, von Zastrow M, Verdin E, Ashworth A, Schwartz O, d'Enfert C, Mukherjee S, Jacobson M, Malik HS, Fujimori DG, Ideker T, Craik CS, Floor S, Fraser JS, Gross JD, Sali A, Roth BL, Ruggero D, Taunton J, Kortemme T, Beltrao P, Vignuzzi M, García-Sastre A, Shokat KM, Shoichet BK, Krogan NJ. *Nature*. 2020."
-  date: '2020-04-30'
-  image: '/static/img/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png'
-  # pmid: ''
-  # pmcid: ''
-  biorxiv: '2020.03.22.002386'
-  pdf: 'https://www.nature.com/articles/s41586-020-2286-9.pdf'
-  #links:
-  #  - name:
-  #    url: 
-
-- title: "Outcomes of the 2019 EMDataResource model challenge: validation of cryo-EM models at near-atomic resolution."
-  citation: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, Barad BA, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Jr. MAH, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, **Wankowicz SA**, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W. 2020."
-  date: '2020-06-19'
-  image: '/static/img/2020_lawson.jpg'
-  # pmid: ''
-  # pmcid: ''
+- title: "Cryo-EM model validation recommendations based on outcomes of the 2019 EMDataResource challenge"
+  citation: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, Barad BA, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Herzik MA Jr, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, **Wankowicz SA**, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W. *Nature Methods*. 2021."
+  date: '2021-02-04'
+  image: '/static/img/pub/2020_lawson.jpg'
+  pmid: '33542514'
+  pmcid: 'PMC7864804'
   biorxiv: '2020.06.12.147033'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
+  pdf: 'https://doi.org/10.1038/s41592-020-01051-w'
+  zenodo:
+  - code: '4148789'
+    description: '2019 EMDataResource Model Challenge Dataset'
   links:
-    - name: 2019 Model Metrics Challenge
-      url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
-      
-- title: "Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding."
+  - name: 2019 Model Metrics Challenge
+    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+  - name: News and Views - Improving cryo-EM structure validation
+    url: https://www.nature.com/articles/s41592-021-01062-1
+
+- title: "Molecular features of exceptional response to neoadjuvant anti-androgen therapy in high-risk localized prostate cancer"
+  citation: "Tewari AK, Cheung ATM, Crowdis J, Conway JR, Camp SY, **Wankowicz SA**, Livitz DG, Park J, Lis RT, Bosma-Moody A, He MX, AlDubayan SH, Zhang Z, McKay RR, Leshchiner I, Brown M, Balk SP, Getz G, Taplin ME, Van Allen EM. *Cell Reports*. 2021."
+  date: '2021-02-01'
+  image: '/static/img/pub/2021_Tewari.png'
+  pmid: '34496240'
+  pdf: 'https://doi.org/10.1016/j.celrep.2021.109665'
+
+- title: "qFit 3: Protein and ligand multiconformer modeling for X-ray crystallographic and single-particle cryo-EM density maps"
+  citation: "Riley BT, **Wankowicz SA**, de Oliveira SHP, van Zundert GCP, Hogan DW, Fraser JS, Keedy DA, van den Bedem H. *Protein Science*. 2021."
+  date: '2021-01-01'
+  image: '/static/img/pub/2020_riley.jpg'
+  pmid: '33210433'
+  pmcid: 'PMC7737783'
+  biorxiv: '2020.09.03.280222'
+  pdf: 'https://doi.org/10.1002/pro.4001'
+  zenodo:
+  - code: '4021213'
+    description: 'qfit-3.0: v3.2.0'
+  links:
+  - name: Keedy lab @ CUNY Advanced Science Research Center
+    url: https://keedylab.org/
+
+- title: "A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing"
+  citation: "Gordon DE&#42;, Jang GM&#42;, Bouhaddou M&#42;, Xu J&#42;, Obernier K&#42;, White KM&#42;, O'Meara MJ&#42;, Rezelj VV&#42;, Guo JZ, Swaney DL, Tummino TA, Huttenhain R, Kaake RM, Richards AL, Tutuncuoglu B, Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM, Eckhardt M, Soucheray M, Bennett MJ, Cakir M, McGregor MJ, Li Q, Meyer B, Roesch F, Vallet T, Mac Kain A, Miorin L, Moreno E, Naing ZZC, Zhou Y, Peng S, Shi Y, Zhang Z, Shen W, Kirby IT, Melnyk JE, Chorba JS, Lou K, Dai SA, Barrio-Hernandez I, Memon D, Hernandez-Armenta C, Lyu J, Mathy CJP, Perica T, Pilla KB, Ganesan SJ, Saltzberg DJ, Rakesh R, Liu X, Rosenthal SB, Calviello L, Venkataramanan S, Liboy-Lugo J, Lin Y, Huang XP, Liu Y, **Wankowicz SA**, Bohn M, Safari M, Ugur FS, Koh C, Savar NS, Tran QD, Shengjuler D, Fletcher SJ, O'Neal MC, Cai Y, Chang JCJ, Broadhurst DJ, Klippsten S, Sharp PP, Wenzell NA, Kuzuoglu D, Wang HY, Trenker R, Young JM, Cavero DA, Hiatt J, Roth TL, Rathore U, Subramanian A, Noack J, Hubert M, Stroud RM, Frankel AD, Rosenberg OS, Verba KA, Agard D, Ott M, Emerman M, Jura N, von Zastrow M, Verdin E, Ashworth A, Schwartz O, d'Enfert C, Mukherjee S, Jacobson M, Malik HS, Fujimori DG, Ideker T, Craik CS, Floor S, Fraser JS, Gross JD, Sali A, Roth BL, Ruggero D, Taunton J, Kortemme T, Beltrao P, Vignuzzi M, García-Sastre A, Shokat KM, Shoichet BK, Krogan NJ. *Nature*. 2020."
+  date: '2020-04-30'
+  image: '/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_rezelj.png'
+  pmid: '32353859'
+  pmcid: 'PMC7431030'
+  biorxiv: '2020.03.22.002386'
+  pdf: 'https://doi.org/10.1038/s41586-020-2286-9'
+  links:
+  - name: QBI Coronavirus Research Group @ UC San Francisco
+    url: http://qbi.ucsf.edu/COVID-19
+  - name: Celebratory Tweetstorm by James Fraser
+    url: https://twitter.com/fraser_lab/status/1241929245812592641
+
+- title: "Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding"
   citation: "Newberry RW, Arhar T, Costello J, Hartoularos GC, Maxwell AM, Chi Naing ZZ, Pittman M, Reddy NR, Schwarz DM, Wassarman DR, Wu TS, Barrero D, Caggiano C, Catching A, Cavazos TB, Estes L, Faust B, Fink EA, Goldman MA, Gomez YK, Gordon MG, Gunsalus LM, Hoppe N, Jaime-Garza M, Johnson MC, Jones MG, Kung AF, Lopez KE, Lumpe J, Martyn C, McCarthy EE, Miller-Vedam LE, Navarro EJ, Palar A, Pellegrino J, Saylor W, Stephens CA, Strickland J, Torosyan H, **Wankowicz SA**, Wong Dr, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. *ACS Chemical Biology*. 2020."
   date: '2020-06-19'
-  image: '/static/img/2020_Newberry.png'
+  image: '/static/img/pub/2020_Newberry.png'
   pmid: '32786289'
-  # pmcid: ''
   biorxiv: '2020.05.01.072884'
-  pdf: 'https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.01.072884.full.pdf'
+  pdf: 'https://doi.org/10.1021/acschembio.0c00339'
   links:
-    - name: 2018 PUBS
-      url: https://kampmannlab.ucsf.edu/pubs-2018
-      
-- title: "The long tail of oncogenic drivers in prostate cancer."
-  citation: "Armenia J#, **Wankowicz SAM**#, Liu D#, Gao J, Kundra R, Reznik E, Chatila WK, Chakravarty D, Han GC, Coleman I, Montgomery B, Pritchard C, Morrissey C, Barbieri CE, Beltran H, Sboner A, Zafeiriou Z, Miranda S, Bielski, CM, Penson, AV, Tolonen, C, Huang FW, Robinson, D, Wu YM, Lonigro, R, Garraway LA, Demichelis, F, Kantoff PW, Taplin, M., Abida W, Taylor BS, Scher HI, Nelson PS, de Bono JS, Rubin MA, Sawyers C., Chinnaiyan A, PCF/SU2C International Prostate Cancer Dream Team, Schultz, N., Van Allen, E.M. *Nature Genetics*. 2019. #Co-First Authors"
-  date: '2019-05-01'
-  image: '/static/img/2019_LongTailProstate.png'
+  - name: 2018 PUBS
+    url: https://kampmannlab.ucsf.edu/pubs-2018
+
+- title: "Ensemble refinement produces consistent R-free values but smaller ensemble sizes than previously reported"
+  citation: "**Wankowicz SA**, Fraser JS. *Computational Crystallography Newsletter*. 2020."
+  date: '2020-01-01'
+  image: '/static/img/pub/2020_wankowicz.png'
+  pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
+  links:
+  - name: PHENIX
+    url: https://www.phenix-online.org
+  - name: PHENIX Computational Crystallography Newsletter
+    url: https://www.phenix-online.org/newsletter/
+
+- title: "The long tail of oncogenic drivers in prostate cancer"
+  citation: "Armenia J#, **Wankowicz SAM**#, Liu D#, Gao J, Kundra R, Reznik E, Chatila WK, Chakravarty D, Han GC, Coleman I, Montgomery B, Pritchard C, Morrissey C, Barbieri CE, Beltran H, Sboner A, Zafeiriou Z, Miranda S, Bielski CM, Penson AV, Tolonen C, Huang FW, Robinson D, Wu YM, Lonigro R, Garraway LA, Demichelis F, Kantoff PW, Taplin M, Abida W, Taylor BS, Scher HI, Nelson PS, de Bono JS, Rubin MA, Sawyers C, Chinnaiyan A, PCF/SU2C International Prostate Cancer Dream Team, Schultz N, Van Allen EM. *Nature Genetics*. 2019. #Co-First Authors"
+  date: '2019-12-01'
+  image: '/static/img/pub/2019_LongTailProstate.png'
   pmid: '29610475'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107367/pdf/nihms-938028.pdf'
-  #links:
-  #  - name: 
-  #    url: 
-  
-- title: "CREB5 Promotes Resistance to Androgen-Receptor Antagonists and Androgen Deprivation in Prostate Cancer."
+  pdf: 'https://doi.org/10.1038/s41588-018-0078-z'
+
+- title: "Integrative molecular characterization of resistance to neoadjuvant chemoradiation in rectal cancer"
+  citation: "Kamran SC, Lennerz JK, Margolis CA, Liu D, Reardon B, **Wankowicz SA**, Van Seventer EE, Tracy A, Wo JY, Carter SL, Willers H, Corcoran RB, Hong TS, Van Allen EM. *Clinical Cancer Research*. 2019."
+  date: '2019-09-01'
+  image: '/static/img/pub/2019_Kamran.png'
+  pmid: '31253631'
+  pdf: 'https://doi.org/10.1158/1078-0432.CCR-19-0908'
+
+- title: "CREB5 Promotes Resistance to Androgen-Receptor Antagonists and Androgen Deprivation in Prostate Cancer"
   citation: "Hwang JH, Seo J, Beshiri ML, **Wankowicz SA**, Liu D, Cheung A, Li J, Qiu X, Hong AL, Botta G, Golumb L, Richter C, So J, Sandoval GJ, Giacomelli AO, Ly SH, Han C, Dai C, Pakula H, Sheahan A, Piccioni F, Gjoerup O, Loda M, Sowalsky AG, Ellis L, Long H, Root DE, Kelly K, Van Allen EM, Freedman ML, Choudhury AC, Hahn WC. *Cell Reports*. 2019."
   date: '2019-01-01'
-  image: '/static/img/2019_Hwang.png'
+  image: '/static/img/pub/2019_Hwang.png'
   pmid: '31747605'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6886683/'
-  #links:
-  #  - name: 
-  #   url:
+  pdf: 'https://doi.org/10.1016/j.celrep.2019.10.068'
 
-- title: "Integrative molecular characterization of resistance to neoadjuvant chemoradiation in rectal cancer."
-  citation: "Kamran SC, Lennerz JK, Margolis CA, Liu D, Reardon B, **Wankowicz SA**, Van Seventer EE, Tracy A, Wo JY, Carter SL, Willers H, Corcoran RB, Hong TS, Van Allen EM. *Clinical Cancer Research*. 2019."
-  date: '2019-01-01'
-  image: '/static/img/2019_Kamran.png'
-  pmid: '31253631'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6744983/'
-  #links:
-  #  - name: 
-  #   url:
-
-- title: "Patient-driven efforts to liberate clinical cancer genomic data."
-  citation: "**Wankowicz SA**, Maile B, Deutsch K, Hayden A, Brown E, Marsilje T, Caldwell B, Simoncelli T, Van Allen E. 2018."
-  date: '2018-01-01'
-  image: '/static/img/2018_Wankowicz_CGC.png'
-  #pmid: '30139659'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://osf.io/gupvq/download?format=pdf'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Targeted genomic landscape of metastases compared to primary tumours in clear cell metastatic renal cell carcinoma."
-  citation: "Velasco G#, **Wankowicz SA**#, Madison R, Ali SM, Norton C, Duquette A, Ross JS, Bossé D, Lalani AKA, Miller VA, Stephens PJ, Young L, Hakimi AA, Signoretti SS, Pal SK, Choueiri TK. *British Journal of Cancer*. 2018. #Co-First Authors"
-  date: '2018-09-01'
-  image: '/static/img/2018_deVelasco.png'
-  pmid: '29674707'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.nature.com/articles/s41416-018-0064-3.pdf'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Racial disparity in quality of care and overall survival among black vs. white patients with muscle-invasive bladder cancer treated with radical cystectomy: A national cancer database analysis."
-  citation: "Gild P#, **Wankowicz SA**#, Sood A, von Landenberg N, Friedlander DF, Alanee S, Bellmunt, J. *Urological Oncology*. 2018. #Co-First Authors"
-  date: '2018-01-01'
-  #image: '/static/img/'
-  pmid: '30139659'
-  # pmcid: ''
-  # biorxiv: ''
-  #pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
-
-- title: "Genomic correlates of response to anti-PD-1/PD-L1 therapy in metastatic clear cell renal cell carcinoma."
-  citation: "Miao D, Margolis C, Gao W, Voss MH, Li W, Martini D, Norton C, Bossé D, **Wankowicz SA**, Cullen D, Horak C, Wind-Rotolo M, Tracy A, Giannakis M, Hodi FS, Drake CG, Ball MW, Allaf ME, Snyder Charen A, Hellmann M, Ho T, Motzer RJ, Signoretti S, Kaelin Jr WG, Choueiri TK, Van Allen EM. *Science*. 2018."
-  date: '2018-01-01'
-  image: '/static/img/2018_Miao.png'
+- title: "Genomic correlates of response to anti-PD-1/PD-L1 therapy in metastatic clear cell renal cell carcinoma"
+  citation: "Miao D, Margolis C, Gao W, Voss MH, Li W, Martini D, Norton C, Bossé D, **Wankowicz SA**, Cullen D, Horak C, Wind-Rotolo M, Tracy A, Giannakis M, Hodi FS, Drake CG, Ball MW, Allaf ME, Snyder Charen A, Hellmann M, Ho T, Motzer RJ, Signoretti S, Kaelin WG Jr, Choueiri TK, Van Allen EM. *Science*. 2018."
+  date: '2018-11-01'
+  image: '/static/img/pub/2018_Miao.png'
   pmid: '29301960'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://science.sciencemag.org/content/359/6377/801.full.pdf'
-  #links:
-  #  - name: 
-  #   url: 
- 
-- title: "Structural alterations driving castration-resistant prostate cancer revealed by linked-read genome sequencing."
-  citation: "Viswanathan SR, Ha G, Hoff AM, Wala JA, Carrot-Zhang J, Whelan, CW, Haradhvala NJ, Freeman SS, Reed SC, Rhoades J, Polak P, Cipicchio M, **Wankowicz SA**, Wong A, Kamath T, Zheng Z, Gydush GJ, Rotem D, Love CJ, Getz G, Gabriel S, Zhang C, Dehm SM, Nelson PS, Van Allen EM, Choudhury A, Adalsteinsson VA, Beroukhim R, Taplin ME, Meyerson M. *Cell*. 2018."
-  date: '2018-01-15'
-  image: '/static/img/2018_Viswanathan.png'
-  pmid: '29909985'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://reader.elsevier.com/reader/sd/pii/S0092867418306482?token=88B840D4105B1BD8365DAE613F5EBB7999D91CDD1DE66346C9A6DAA9AAFFCAE3BED58C38CC8A9171ACA03C1E0EA077A9'
-  #links:
-  #  - name: 
-  #   url: 
+  pdf: 'https://doi.org/10.1126/science.aan5951'
 
-- title: "Genomic correlates of response to immune checkpoint blockade in microsatellite-stable solid tumors."
-  citation: "Miao D, Margolis CA, Vokes NI, Liu D, Taylor-Weiner A, **Wankowicz SM**, Adeegbe D, Keliher D, Schilling B, Tracy A, Manos M, Chau N, Hanna G, Polak P, Rodig SJ, Signoretti S, Sholl L, Engelman J, Getz G, Janne PA, Haddad RI, Choueiri TK, Barbie DA, Haq R, Awad MM, Schadendorf D, Hodi FS, Bellmunt J, Wong KK, Hammerman P, Van Allen, EM. *Nature Genetics*. 2018."
+- title: "Targeted genomic landscape of metastases compared to primary tumours in clear cell metastatic renal cell carcinoma"
+  citation: "de Velasco G#, **Wankowicz SA**#, Madison R, Ali SM, Norton C, Duquette A, Ross JS, Bossé D, Lalani AKA, Miller VA, Stephens PJ, Young L, Hakimi AA, Signoretti SS, Pal SK, Choueiri TK. *British Journal of Cancer*. 2018. #Co-First Authors"
   date: '2018-09-01'
-  image: '/static/img/2018_Miao_MSS.png'
+  image: '/static/img/pub/2018_deVelasco.png'
+  pmid: '29674707'
+  pdf: 'https://doi.org/10.1038/s41416-018-0064-3'
+
+- title: "Genomic correlates of response to immune checkpoint blockade in microsatellite-stable solid tumors"
+  citation: "Miao D, Margolis CA, Vokes NI, Liu D, Taylor-Weiner A, **Wankowicz SA**, Adeegbe D, Keliher D, Schilling B, Tracy A, Manos M, Chau N, Hanna G, Polak P, Rodig SJ, Signoretti S, Sholl L, Engelman J, Getz G, Janne PA, Haddad RI, Choueiri TK, Barbie DA, Haq R, Awad MM, Schadendorf D, Hodi FS, Bellmunt J, Wong KK, Hammerman P, Van Allen EM. *Nature Genetics*. 2018."
+  date: '2018-09-01'
+  image: '/static/img/pub/2018_Miao_MSS.png'
   pmid: '30150660'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
+  pdf: 'https://doi.org/10.1038/s41588-018-0200-2'
 
-- title: "Immunogenomic analyses associate immunological alterations with mismatch repair defects in prostate cancer."
-  citation: "Rodrigues DN, Rescigno P, Liu D, Yuan W, Carreira S, Lambros MB, Seed G, Mateo J, Riisnaes R, **Mullane S**, Margolis C, Miao D, Miranda S, Dolling D, Clarke M, Bertan C, Crespo M, Boysen G, Ferreria A, Sharp A, Figueiredo I, Keliher D, Aldubayan S, Burke K, Sumanasyriya S, Fontes M, Bianchini D, Zafeiriou Z, Mendes L, Mouw K, Schweizer M, Pritchard C, Salipante S, Taplin ME, Beltran H, Rubin M, Cieslik M, Robinson D, Heath E, Schultz N, Armenia J, Abida W, Scher H, Lord C, D’Andrea A, Sawyers C, Chinnaiyan A, Alimonti A, Nelson P, Drake C, Van Allen E, de Bono, JS. *The Journal of clinical investigation*. 2018."
-  date: '2018-10-01'
-  image: '/static/img/2018_Rodrigues.png'
-  pmid: ''
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
+- title: "Structural alterations driving castration-resistant prostate cancer revealed by linked-read genome sequencing"
+  citation: "Viswanathan SR, Ha G, Hoff AM, Wala JA, Carrot-Zhang J, Whelan CW, Haradhvala NJ, Freeman SS, Reed SC, Rhoades J, Polak P, Cipicchio M, **Wankowicz SA**, Wong A, Kamath T, Zheng Z, Gydush GJ, Rotem D, Love CJ, Getz G, Gabriel S, Zhang C, Dehm SM, Nelson PS, Van Allen EM, Choudhury A, Adalsteinsson VA, Beroukhim R, Taplin ME, Meyerson M. *Cell*. 2018."
+  date: '2018-07-01'
+  image: '/static/img/pub/2018_Viswanathan.png'
+  pmid: '29909985'
+  pdf: 'https://doi.org/10.1016/j.cell.2018.05.036'
 
-- title: "The clinical activity of PD-1/PD-L1 inhibitors in metastatic non–clear cell renal cell carcinoma."
+- title: "Patient-driven efforts to liberate clinical cancer genomic data"
+  citation: "**Wankowicz SA**, Maile B, Deutsch K, Hayden A, Brown E, Marsilje T, Caldwell B, Simoncelli T, Van Allen E. *OSF Preprints*. 2018."
+  date: '2018-06-06'
+  image: '/static/img/pub/2018_Wankowicz_CGC.png'
+  pdf: 'https://osf.io/gupvq/download?format=pdf'
+
+- title: "The clinical activity of PD-1/PD-L1 inhibitors in metastatic non-clear cell renal cell carcinoma"
   citation: "McKay RR, Bossé D, Xie W, **Wankowicz SA**, Flaifel A, Brandao R, Lalani AKA, Martini DJ, Wei XX, Braun DA, Van Allen EM. *Cancer Immunology Research*. 2018."
-  date: '2018-07-01'
-  image: '/static/img/2017_McKay.png'
+  date: '2018-06-01'
+  image: '/static/img/pub/2017_McKay.png'
   pmid: '29748390'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url:
-  
-- title: "Everolimus and pazopanib (E/P) benefit genomically selected patients with metastatic urothelial carcinoma."
-  citation: "Bellmunt J, Lalani AKA, Jacobus S, **Wankowicz SA**, Polacek L, Takeda DY, Harshman LC, Wagle N, Moreno I, Lundgren K, Bossé D, Van Allen E, Choueiri T, Rosenberg J. *British Journal of Cancer*. 2018."
-  date: '2018-07-01'
-  image: '/static/img/2018_Bellmunt.png'
-  pmid: '30220708'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.nature.com/articles/s41416-018-0261-0.pdf'
-  #links:
-  #  - name: 
-  #   url:
- 
-- title: "Nomogram to assess the survival benefit of new salvage agents for metastatic urothelial carcinoma in the era of immunotherapy."
-  citation: "Sonpavde G, Pond GR, Rosenberg JE, Choueiri TK, Bellmunt J, Regazzi AM, **Mullane SA**, Necchi A, Raggi D, Lee JL, Lee S. *Clinical Cancer Research*. 2018."
-  date: '2018-07-01'
-  image: '/static/img/2018_Sonpavde.png'
-  pmid: '29706503'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6697267/pdf/nihms-1044512.pdf'
-  #links:
-  #  - name: 
-  #   url:
+  pdf: 'https://doi.org/10.1158/2326-6066.CIR-17-0475'
 
-- title: "Differential expression of PD-L1 in high grade T1 vs muscle invasive bladder carcinoma and its prognostic implications."
+- title: "Everolimus and pazopanib (E/P) benefit genomically selected patients with metastatic urothelial carcinoma"
+  citation: "Bellmunt J, Lalani AKA, Jacobus S, **Wankowicz SA**, Polacek L, Takeda DY, Harshman LC, Wagle N, Moreno I, Lundgren K, Bossé D, Van Allen E, Choueiri T, Rosenberg J. *British Journal of Cancer*. 2018."
+  date: '2018-04-01'
+  image: '/static/img/pub/2018_Bellmunt.png'
+  pmid: '30220708'
+  pdf: 'https://doi.org/10.1038/s41416-018-0261-0'
+
+- title: "Immunogenomic analyses associate immunological alterations with mismatch repair defects in prostate cancer"
+  citation: "Rodrigues DN, Rescigno P, Liu D, Yuan W, Carreira S, Lambros MB, Seed G, Mateo J, Riisnaes R, **Mullane S**, Margolis C, Miao D, Miranda S, Dolling D, Clarke M, Bertan C, Crespo M, Boysen G, Ferreria A, Sharp A, Figueiredo I, Keliher D, Aldubayan S, Burke K, Sumanasyriya S, Fontes M, Bianchini D, Zafeiriou Z, Mendes L, Mouw K, Schweizer M, Pritchard C, Salipante S, Taplin ME, Beltran H, Rubin M, Cieslik M, Robinson D, Heath E, Schultz N, Armenia J, Abida W, Scher H, Lord C, D'Andrea A, Sawyers C, Chinnaiyan A, Alimonti A, Nelson P, Drake C, Van Allen E, de Bono JS. *The Journal of Clinical Investigation*. 2018."
+  date: '2018-03-01'
+  image: '/static/img/pub/2018_Rodrigues.png'
+  pmid: '30382943'
+  pdf: 'https://doi.org/10.1172/JCI121924'
+
+- title: "Racial disparity in quality of care and overall survival among black vs. white patients with muscle-invasive bladder cancer treated with radical cystectomy: A national cancer database analysis"
+  citation: "Gild P#, **Wankowicz SA**#, Sood A, von Landenberg N, Friedlander DF, Alanee S, Bellmunt J. *Urological Oncology*. 2018. #Co-First Authors"
+  date: '2018-03-01'
+  image: '/static/img/pub/2018_Gild.png'
+  pmid: '30139659'
+  pdf: 'https://doi.org/10.1016/j.urolonc.2018.07.012'
+
+- title: "Nomogram to assess the survival benefit of new salvage agents for metastatic urothelial carcinoma in the era of immunotherapy"
+  citation: "Sonpavde G, Pond GR, Rosenberg JE, Choueiri TK, Bellmunt J, Regazzi AM, **Mullane SA**, Necchi A, Raggi D, Lee JL, Lee S. *Clinical Cancer Research*. 2018."
+  date: '2018-01-01'
+  image: '/static/img/pub/2018_Sonpavde.png'
+  pmid: '29706503'
+  pdf: 'https://doi.org/10.1016/j.clgc.2018.03.016'
+
+- title: "Differential expression of PD-L1 in high grade T1 vs muscle invasive bladder carcinoma and its prognostic implications"
   citation: "**Wankowicz SA**, Werner L, Orsola A, Novak J, Bowden M, Choueiri TK, de Torres I, Morote J, Freeman GJ, Signoretti S, Bellmunt J. *The Journal of Urology*. 2017."
   date: '2017-12-19'
-  image: '/static/img/2017_Wankowicz.png'
+  image: '/static/img/pub/2017_Wankowicz.png'
   pmid: '29259186'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.nature.com/articles/s41467-017-02320-7.pdf?origin=ppub'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Neoadjuvant chemotherapy prior to radical cystectomy for muscle‐invasive bladder cancer with variant histology."
-  citation: "Vetterlein MW#, **Wankowicz SA**#, Seisen T, Lander R, Löppenberg B, Chun FK, Menon M, Sun M, Barletta JA, Choueiri TK, Bellmunt J, Trinh QD, Preston, MA. *Cancer*. 2017. #Co-First Authors"
-  date: '2017-11-197'
-  image: '/static/img/2017_Vetterlein.png'
+  pdf: 'https://doi.org/10.1016/j.juro.2017.04.102'
+
+- title: "Neoadjuvant chemotherapy prior to radical cystectomy for muscle-invasive bladder cancer with variant histology"
+  citation: "**Wankowicz SA**#, Vetterlein MW#, Seisen T, Lander R, Löppenberg B, Chun FK, Menon M, Sun M, Barletta JA, Choueiri TK, Bellmunt J, Trinh QD, Preston MA. *Cancer*. 2017. #Co-First Authors"
+  date: '2017-08-01'
+  image: '/static/img/pub/2017_Vetterlein.png'
   pmid: '28743155'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://acsjournals.onlinelibrary.wiley.com/doi/pdf/10.1002/cncr.30907'
-  #links:
-  #  - name: 
-  #   url: 
+  pdf: 'https://doi.org/10.1002/cncr.30907'
 
-- title: "Mutational patterns in chemotherapy resistant muscle-invasive bladder cancer."
-  citation: "Liu D, Abbosh P, Keliher D, Reardon B, Miao D, Mouw K, Taylor-Weiner A, **Mullane SA**, Han C, Teo MY, Cipolla C, Kim J, Iyer G, Al-Ahmadie H, Dulaimi E, Chen DYT, Alpaugh R, Hoffman-Censits J, Garraway L, Getz G, Carter S, Bellmunt J, Plimack E, Rosenberg J, Van Allen EM. *Nature Communication*. 2017."
-  date: '2017-12-19'
-  image: '/static/img/2017_Liu.png'
+- title: "Exome sequencing of African-American prostate cancer reveals loss-of-function ERF mutations"
+  citation: "Huang FW, Mosquera JM, Garofalo A, Oh C, Baco M, Amin-Mansour A, Rabasha B, Bahl S, **Mullane SA**, Robinson BD, Aldubayan S, Khani F, Karir B, Kim E, Chimene-Weiss J, Hofree M, Romanel A, Osborne JR, Kim JW, Azabdaftari G, Woloszynska-Read A, Sfanos K, De Marzo AM, Demichelis F, Gabriel S, Van Allen EM, Mesirov J, Tamayo P, Rubin MA, Powell IJ, Garraway LA. *Cancer Discovery*. 2017."
+  date: '2017-08-01'
+  image: '/static/img/pub/2017_Huang.png'
+  pmid: '28515055'
+  pdf: 'https://doi.org/10.1158/2159-8290.CD-16-0960'
+
+- title: "Mutational patterns in chemotherapy resistant muscle-invasive bladder cancer"
+  citation: "Liu D, Abbosh P, Keliher D, Reardon B, Miao D, Mouw K, Taylor-Weiner A, **Mullane SA**, Han C, Teo MY, Cipolla C, Kim J, Iyer G, Al-Ahmadie H, Dulaimi E, Chen DYT, Alpaugh R, Hoffman-Censits J, Garraway L, Getz G, Carter S, Bellmunt J, Plimack E, Rosenberg J, Van Allen EM. *Nature Communications*. 2017."
+  date: '2017-07-01'
+  image: '/static/img/pub/2017_Liu.png'
   pmid: '29259186'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.nature.com/articles/s41467-017-02320-7.pdf?origin=ppub'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Genomic resistance patterns to second-generation androgen blockade in paired tumor biopsies of metastatic castration-resistant prostate cancer."
-  citation: "Han GC, Hwang J, **Wankowicz SA**, Zhang Z, Liu D, Cibulskis C, Gaviola GC, Ghazikhanian V, McKay RR, Bubley GJ, Carter SL, Balk SP, Hahn WH, Taplin EM, Van Allen EM. *Journal of Clinical Oncology Precision Medicine*. 2017."
-  date: '2017-12-19'
-  image: '/static/img/2017_Han.png'
-  # pmid: ''
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://ascopubs.org/doi/pdfdirect/10.1200/PO.17.00140'
-  #links:
-  #  - name: 
-  #   url: 
+  pdf: 'https://doi.org/10.1038/s41467-017-02320-7'
 
-- title: "DNA damage response and repair gene alterations are associated with improved survival in patients with platinum-treated advanced urothelial carcinoma."
+- title: "Genomic resistance patterns to second-generation androgen blockade in paired tumor biopsies of metastatic castration-resistant prostate cancer"
+  citation: "Han GC, Hwang J, **Wankowicz SA**, Zhang Z, Liu D, Cibulskis C, Gaviola GC, Ghazikhanian V, McKay RR, Bubley GJ, Carter SL, Balk SP, Hahn WH, Taplin EM, Van Allen EM. *Journal of Clinical Oncology Precision Medicine*. 2017."
+  date: '2017-06-01'
+  image: '/static/img/pub/2017_Han.png'
+  pmid: '32913968'
+  pdf: 'https://doi.org/10.1200/PO.17.00140'
+
+- title: "Upper Tract Urothelial Carcinomas: Prognostic Factors and Outcomes in Patients With Non-Lymph Node Distant Metastasis"
+  citation: "Sevillano E, Werner L, Bossé D, Lalani AA, **Wankowicz SA**, de Velasco G, Farina M, Lundgren K, Choueiri TK, González Del Alba A, Bellmunt J. *Clinical Genitourinary Cancer*. 2017."
+  date: '2017-01-01'
+  image: '/static/img/pub/2017_Sevillano.png'
+  pmid: '28864222'
+  pdf: 'https://doi.org/10.1016/j.clgc.2017.07.012'
+
+- title: "DNA damage response and repair gene alterations are associated with improved survival in patients with platinum-treated advanced urothelial carcinoma"
   citation: "Teo MY, Bambury RM, Zabor EC, Jordan E, Al-Ahmadie H, Boyd ME, Bouvier N, **Mullane SA**, Cha EK, Roper N, Ostrovnaya I, Hyman DM, Bochner BH, Arcila ME, Solit DB, Berger MF, Bajorin DF, Bellmunt J, Iyer G, Rosenberg JE. *Clinical Cancer Research*. 2017."
   date: '2017-01-15'
-  image: '/static/img/2017_Teo.png'
+  image: '/static/img/pub/2017_Teo.png'
   pmid: '28137924'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://clincancerres.aacrjournals.org/content/clincanres/23/14/3610.full.pdf'
-  #links:
-  #  - name: 
-  #   url: 
+  pdf: 'https://doi.org/10.1158/1078-0432.CCR-16-2520'
 
-- title: "Exome sequencing of African-American prostate cancer reveals loss-of-function ERF mutations."
-  citation: "Huang FW, Mosquera JM, Garofalo A, Oh C, Baco M, Amin-Mansour A, Rabasha B, Bahl S, **Mullane SA**, Robinson BD, Aldubayan S, Khani F, Karir B, Kim E, Chimene-Weiss J, Hofree M, Romanel A, Osborne JR, Kim JW, Azabdaftari G, Woloszynska-Read A, Sfanos K, De Marzo AM, Demichelis F Gabriel S, Van Allen EM, Mesirov J, Tamayo P, Rubin MA, Powell IJ, Garraway LA. *Cancer Discovery*. 2017."
-  date: '2017-09-15'
-  image: '/static/img/2017_Huang.png'
-  pmid: '28515055'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://cancerdiscovery.aacrjournals.org/content/candisc/7/9/973.full.pdf'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Upper Tract Urothelial Carcinomas: Prognostic Factors and Outcomes in Patients With Non–Lymph Node Distant Metastasis."
-  citation: "Sevillano E, Werner L, Bossé D, Lalani AA, **Wankowicz SA**, de Velasco G, Farina M, Lundgren K, Choueiri TK, González Del Alba A, Bellmunt J. *Clinical Genitourinary Cancer*. 2017."
-  date: '2017-09-15'
-  image: '/static/img/2017_Sevillano.png'
-  pmid: '28864222'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url:  
-  
-
-- title: "Correlation of apobec mrna expression with overall survival and pd-l1 expression in urothelial carcinoma."
-  citation: "**Mullane SA**, Werner L, Rosenberg J, Signoretti S, Callea M, Choueiri TK, Freeman GJ, Bellmunt J. *Scientific Reports*. 2016."
-  date: '2016-06-01'
-  image: '/static/img/2016_Mullane.png'
-  pmid: '27283319'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.nature.com/articles/srep27702.pdf'
-  #links:
-  #  - name: 
-  #   url: 
-
-- title: "Expression levels of DNA damage repair proteins are associated with overall survival in platinum-treated advanced urothelial carcinoma."
-  citation: "**Mullane SA**, Werner L, Guancial EA, Lis RT, Stack EC, Loda, M, Kantoff PW, Choueiri TK, Rosenberg J, Bellmunt, J. *Clinical Genitourinary Cancer*. 2016."
-  date: '2016-06-01'
-  image: '/static/img/2016_Mullane_DNADam.png'
-  pmid: '26778300'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508512/pdf/nihms875776.pdf'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Precision medicine for advanced prostate cancer."
-  citation: "**Mullane SA**, Van Allen EM. *Current Opinion in Urology*. 2016."
-  date: '2016-06-01'
-  image: '/static/img/2016_Mullane_VanAllen.png'
-  pmid: '26909474'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4955574/pdf/nihms-802882.pdf'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Cancer immunotherapy: new applications in urologic oncology."
-  citation: "**Mullane SA**, Bellmunt J. *Current Opinions in Urology*. 2016."
-  date: '2016-06-01'
-  #image: '/static/img/2016_Mullane.png'
-  pmid: '27584023'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Re: John P. Sfakianos, Eugene K. Cha, Gopa Iyer, et al. Genomic Characterization of Upper Tract Urothelial Carcinoma."
-  citation: "**Mullane SA**, Bellmunt J. *European Urology*. 2016."
-  date: '2016-06-01'
-  #image: '/static/img/2016_Mullane.png'
-  pmid: '26852077'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url:   
-  
-- title: "Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles."
+- title: "Chromatin immunoprecipitation from fixed clinical tissues reveals tumor-specific enhancer profiles"
   citation: "Cejas P, Li L, O'Neill NK, Duarte M, Rao P, Bowden M, Zhou CW, Mendiola M, Burgos E, Feliu J, Moreno-Rubio J, Guadalajara H, Moreno V, García-Olmo D, Bellmunt J, **Mullane SA**, Hirsch M, Sweeney CJ, Richardson A, Liu XS, Brown M, Shivdasani RA, Long HW. *Nature Medicine*. 2016."
-  date: '2016-06-01'
-  image: '/static/img/2016_Cejas.png'
+  date: '2016-12-01'
+  image: '/static/img/pub/2016_Cejas.png'
   pmid: '27111282'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Outcomes in patients with advanced urothelial carcinoma after discontinuation of programmed death (PD)-1 or PD ligand 1 inhibitor therapy."
-  citation: "Sonpavde G, Pond GR, **Mullane S**, Ramirez AA, Vogelzang NJ, Necchi A, Powles T, Bellmunt J. *BJU International*. 2016."
-  date: '2016-01-15'
-  image: '/static/img/2016_Sonpavde.png'
-  pmid: '27700015'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/bju.13674'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Letter to the Editor, Re: van der Heijden AG, Mengual L, Lozano JJ, Ingelmo-Torres M, Ribal MJ, Fernández PL, Oosterwijk E, Schalken JA, Alcaraz A, Witjes JA. A five-gene expressionsignature to predict progression in T1G3 bladder cancer.."
-  citation: "Orsola A, **Mullane SA**, Bellmunt J. *European Journal of Cancer*. 2016."
-  date: '2016-01-15'
-  #image: '/static/img/2016_Orsola.png'
-  pmid: '27806880'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Association of tumour microRNA profiling with outcomes in patients with advanced urothelial carcinoma receiving first-line platinum-based chemotherapy."
+  pdf: 'https://doi.org/10.1038/nm.4085'
+
+- title: "Cancer immunotherapy: new applications in urologic oncology"
+  citation: "**Mullane SA**, Bellmunt J. *Current Opinions in Urology*. 2016."
+  date: '2016-12-03'
+  image: '/static/img/pub/2016_Mullane2.jpeg'
+  pmid: '27584023'
+  pdf: 'https://doi.org/10.1097/MOU.0000000000000337'
+
+- title: "Precision medicine for advanced prostate cancer"
+  citation: "**Mullane SA**, Van Allen EM. *Current Opinion in Urology*. 2016."
+  date: '2016-12-01'
+  image: '/static/img/pub/2016_Mullane_VanAllen.png'
+  pmid: '26909474'
+  pdf: 'https://doi.org/10.1097/MOU.0000000000000278'
+
+- title: "Expression levels of DNA damage repair proteins are associated with overall survival in platinum-treated advanced urothelial carcinoma"
+  citation: "**Mullane SA**, Werner L, Guancial EA, Lis RT, Stack EC, Loda M, Kantoff PW, Choueiri TK, Rosenberg J, Bellmunt J. *Clinical Genitourinary Cancer*. 2016."
+  date: '2016-11-01'
+  image: '/static/img/pub/2016_Mullane_DNADam.png'
+  pmid: '26778300'
+  pdf: 'https://doi.org/10.1016/j.clgc.2015.12.029'
+
+- title: "Association of tumour microRNA profiling with outcomes in patients with advanced urothelial carcinoma receiving first-line platinum-based chemotherapy"
   citation: "Bellmunt J, Zhou CW, **Mullane SA**, Werner L, Taplin ME, Fay AP, Choueiri TK, Orsola A, Takeda DY, Hahn WC, Kim J, Sonpavde G, Bowden M. *British Journal of Cancer*. 2016."
   date: '2016-06-01'
-  image: '/static/img/2016_Bellmunt2.png'
+  image: '/static/img/pub/2016_Bellmunt2.png'
   pmid: '27351382'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.nature.com/articles/bjc2016146.pdf'
-  #links:
-  #  - name: 
-  #   url:   
-  
-- title: "Impact of Prior Platinum-Based Therapy on Patients Receiving Salvage Systemic Treatment for Advanced Urothelial Carcinoma."
-  citation: "Sonpavde G, Pond GR, Di Lorenzo G, Buonerba C, Rozzi A, Lanzetta G, Necchi A, Giannatempo P, Raggi D6, Matsumoto K, Choueiri TK, **Mullane SA**, Niegisch G, Albers P, Lee JL, Kitamura H, Kume H, Bellmunt J. *Clinical Genitourinary Cancer*. 2016."
-  date: '2016-01-15'
-  image: '/static/img/2016_Sonpavde2.png'
-  pmid: '27262369'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Single-agent taxane versus taxane-containing combination chemotherapy as salvage therapy for advanced urothelial carcinoma."
-  citation: "Sonpavde G, Pond GR, Choueiri TK, **Mullane SA**, Niegisch G, Albers, P, Necchi A5, Di Lorenzo G, Buonerba C, RozziA, Matsumoto K, Lee JL, Kitamura H, Kume H, Bellmunt J. *European Urology*. 2016."
-  date: '2016-01-15'
-  #image: '/static/img/2016_Sonpavde3.png'
+  pdf: 'https://doi.org/10.1038/bjc.2016.146'
+
+- title: "Re: John P. Sfakianos, Eugene K. Cha, Gopa Iyer, et al. Genomic Characterization of Upper Tract Urothelial Carcinoma"
+  citation: "**Mullane SA**, Bellmunt J. *European Urology*. 2016."
+  date: '2016-06-01'
+  image: '/static/img/pub/2016_Mullane.png'
+  pmid: '26852077'
+  pdf: 'https://doi.org/10.1016/j.eururo.2015.07.039'
+
+- title: "Letter to the Editor, Re: van der Heijden AG et al. A five-gene expression signature to predict progression in T1G3 bladder cancer"
+  citation: "Orsola A, **Mullane SA**, Bellmunt J. *European Journal of Cancer*. 2016."
+  date: '2016-04-01'
+  image: '/static/img/pub/2016_Orsola.png'
+  pmid: '27806880'
+  pdf: 'https://doi.org/10.1016/j.ejca.2016.09.017'
+
+- title: "Outcomes in patients with advanced urothelial carcinoma after discontinuation of programmed death (PD)-1 or PD ligand 1 inhibitor therapy"
+  citation: "Sonpavde G, Pond GR, **Mullane S**, Ramirez AA, Vogelzang NJ, Necchi A, Powles T, Bellmunt J. *BJU International*. 2016."
+  date: '2016-01-20'
+  image: '/static/img/pub/2016_Sonpavde.png'
+  pmid: '27700015'
+  pdf: 'https://doi.org/10.1111/bju.13674'
+
+- title: "Single-agent taxane versus taxane-containing combination chemotherapy as salvage therapy for advanced urothelial carcinoma"
+  citation: "Sonpavde G, Pond GR, Choueiri TK, **Mullane SA**, Niegisch G, Albers P, Necchi A, Di Lorenzo G, Buonerba C, Rozzi A, Matsumoto K, Lee JL, Kitamura H, Kume H, Bellmunt J. *European Urology*. 2016."
+  date: '2016-01-01'
+  image: '/static/img/pub/2016_Sonpavde3.jpeg'
   pmid: '26264159'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Association of PD-L1 expression on tumor-infiltrating mononuclear cells and overall survival in patients with urothelial carcinoma."
+  pdf: 'https://doi.org/10.1016/j.eururo.2015.07.042'
+
+- title: "Impact of Prior Platinum-Based Therapy on Patients Receiving Salvage Systemic Treatment for Advanced Urothelial Carcinoma"
+  citation: "Sonpavde G, Pond GR, Di Lorenzo G, Buonerba C, Rozzi A, Lanzetta G, Necchi A, Giannatempo P, Raggi D, Matsumoto K, Choueiri TK, **Mullane SA**, Niegisch G, Albers P, Lee JL, Kitamura H, Kume H, Bellmunt J. *Clinical Genitourinary Cancer*. 2016."
+  date: '2016-01-01'
+  image: '/static/img/pub/2016_Sonpavde2.jpg'
+  pmid: '27262369'
+  pdf: 'https://doi.org/10.1016/j.clgc.2016.05.001'
+
+- title: "Association of PD-L1 expression on tumor-infiltrating mononuclear cells and overall survival in patients with urothelial carcinoma"
   citation: "Bellmunt J, **Mullane SA**, Werner L, Fay AP, Callea M, Leow J, Choueiri TK, Hodi FS, Freeman GJ, Signoretti S. *Annals of Oncology*. 2015."
-  date: '2015-01-15'
-  image: '/static/img/2015_Bellmunt.png'
+  date: '2015-12-01'
+  image: '/static/img/pub/2015_Bellmunt.png'
   pmid: '25600565'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: ''
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Somatic Copy Number Abnormalities and Mutations in PI3K/AKT/mTOR Pathway Have Prognostic Significance for Overall Survival in Platinum Treated Locally Advanced or Metastatic Urothelial Tumors."
-  citation: "Bellmunt J, Werner L, Leow JJ, **Mullane SA**, Fay AP, Riester M, Van Hummelen P, Taplin ME, Choueiri TK, Van Allen E, Rosenberg, J. *PloS One*. 2015."
-  date: '2015-02-01'
-  image: '/static/img/2015_Bellmunt_CN.png'
-  pmid: '26320810'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: 'https://www.nature.com/articles/bjc2014633.pdf'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Temporal trends in receipt of adequate lymphadenectomy in bladder cancer 1988 to 2010."
-  citation: "Cole AP, Dalela D, Hanske J, **Mullane SA**, Choueiri TK, Meyer CP, Nguyen Pl, Menon M, Kibel AS, Preston MA, Bellmunt J, Trinh Q. *Urologic Oncology*. 2015."
-  date: '2015-02-01'
-  image: '/static/img/2015_Cole.png'
-  pmid: '26320810'
-  # pmcid: ''
-  # biorxiv: ''
-  # pdf: 'https://www.nature.com/articles/bjc2014633.pdf'
-  #links:
-  #  - name: 
-  #   url: 
-  
-- title: "Reexamining treatment of high-grade T1 bladder cancer according to depth of lamina propria invasion: a prospective trial of 200 patients."
-  citation: "Orsola A, L. Werner, de Torres I, Martin-Doyle W, Raventos CX, Lozano F, **Mullane SA**, Leow JJ, Barletta JA, Bellmunt J, Morote J. *British Journal of Cancer*. 2015."
-  date: '2015-02-01'
-  image: '/static/img/2015_Orsola.png'
-  pmid: '25535728'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.nature.com/articles/bjc2014633.pdf'
-  #links:
-  #  - name: 
-  #   url: 
+  pdf: 'https://doi.org/10.1093/annonc/mdv009'
 
-- title: "HER2 as a target in invasive urothelial carcinoma."
-  citation: "Bellmunt J, Werner L, Bamias A, Fay AP, Park RS, Riester M, Selvarajah S, Barletta J, Berman D, de Muga S, Salido M, Gallardo E, Rojo F, Guancial E, Bambury R, **Mullane SA**, Choueiri TK, Loda M, Stack E, Rosenberg, J. *Cancer Medicine*. 2015."
-  date: '2015-02-01'
-  image: '/static/img/2015_Bellmunt_HER2.png'
-  pmid: '25535728'
-  # pmcid: ''
-  # biorxiv: ''
-  pdf: 'https://www.nature.com/articles/bjc2014633.pdf'
-  #links:
-  #  - name: 
-  #   url: 
+- title: "Somatic Copy Number Abnormalities and Mutations in PI3K/AKT/mTOR Pathway Have Prognostic Significance for Overall Survival in Platinum Treated Locally Advanced or Metastatic Urothelial Tumors"
+  citation: "Bellmunt J, Werner L, Leow JJ, **Mullane SA**, Fay AP, Riester M, Van Hummelen P, Taplin ME, Choueiri TK, Van Allen E, Rosenberg J. *PloS One*. 2015."
+  date: '2015-04-01'
+  image: '/static/img/pub/2015_Bellmunt_CN.png'
+  pmid: '26320810'
+  pdf: 'https://doi.org/10.1371/journal.pone.0124711'
 
+- title: "Reexamining treatment of high-grade T1 bladder cancer according to depth of lamina propria invasion: a prospective trial of 200 patients"
+  citation: "Orsola A, Werner L, de Torres I, Martin-Doyle W, Raventos CX, Lozano F, **Mullane SA**, Leow JJ, Barletta JA, Bellmunt J, Morote J. *British Journal of Cancer*. 2015."
+  date: '2015-03-01'
+  image: '/static/img/pub/2015_Orsola.png'
+  pmid: '25535728'
+  pdf: 'https://doi.org/10.1038/bjc.2014.633'
+
+- title: "HER2 as a target in invasive urothelial carcinoma"
+  citation: "Bellmunt J, Werner L, Bamias A, Fay AP, Park RS, Riester M, Selvarajah S, Barletta J, Berman D, de Muga S, Salido M, Gallardo E, Rojo F, Guancial E, Bambury R, **Mullane SA**, Choueiri TK, Loda M, Stack E, Rosenberg J. *Cancer Medicine*. 2015."
+  date: '2015-02-01'
+  image: '/static/img/pub/2015_Bellmunt_HER2.jpeg'
+  pmid: '25535728'
+  pdf: 'https://doi.org/10.1002/cam4.432'
+
+- title: "Temporal trends in receipt of adequate lymphadenectomy in bladder cancer 1988 to 2010"
+  citation: "Cole AP, Dalela D, Hanske J, **Mullane SA**, Choueiri TK, Meyer CP, Nguyen PL, Menon M, Kibel AS, Preston MA, Bellmunt J, Trinh Q. *Urologic Oncology*. 2015."
+  date: '2015-02-01'
+  image: '/static/img/pub/2015_Cole.jpg'
+  pmid: '26320810'
+  pdf: 'https://doi.org/10.1016/j.urolonc.2015.07.015'
