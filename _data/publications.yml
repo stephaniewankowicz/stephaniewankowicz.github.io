@@ -1,3 +1,8 @@
+- title: "sampleworks: A Modular Platform for Experimentally Guided Biomolecular Ensemble Generation"
+  citation: "Chrispens K, Collins MD, Mai D, **Wankowicz SA**, Fraser JS, van den Bedem H. *The Stacks*. 2026."
+  date: '2026-06-08'
+  pdf: 'https://thestacks.org/publications/sampleworks-release'
+
 - title: "Binding Entropy Can Be Predicted by Crystallographic Ensembles"
   citation: "**Miller CA**, **Wankowicz SA**. *bioRxiv*. 2026."
   date: '2026-01-20'
