@@ -1,3 +1,8 @@
+- title: "WaterFlow: Prediction of Ordered Water Molecule Positions on Protein Structures"
+  citation: "Srivastava V, Mai H, Collins M, Holton J, Wall M, **Wankowicz SA**. *bioRxiv*. 2026."
+  date: '2026-08-26'
+  pdf: 'https://www.biorxiv.org/content/10.64898/2026.08.26.747373v1'
+
 - title: "Supplying a user-defined bulk solvent map for refinement"
   citation: "Holton J, **Wankowicz SA**. *The Stacks*. 2026."
   date: '2026-06-17'
