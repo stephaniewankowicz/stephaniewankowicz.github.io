@@ -37,8 +37,8 @@
       <ul class="nav-links" id="navLinks">
         <li><a href="#about">About</a></li>
         <li><a href="#research-interests">Research</a></li>
-        <li><a href="#podcast">Podcast</a></li>
         <li><a href="#papers">Papers</a></li>
+        <li><a href="#podcast">Podcast</a></li>
         <li><a href="#contact">Contact</a></li>
         <li><a href="/publications" class="nav-highlight">All Publications →</a></li>
       </ul>
@@ -119,6 +119,42 @@
     </div>
   </section>
 
+  <!-- ===== Latest Research ===== -->
+  <section id="papers" class="home-section alt">
+    <div class="section-inner">
+      <div class="scroll-section-header">
+        <div>
+          <span class="section-label">Recent Work</span>
+          <h2 class="section-title">Latest Research</h2>
+        </div>
+        <a href="/publications" class="view-all-link">All publications →</a>
+      </div>
+
+      <div class="scroll-track">
+        {% assign pubs = site.data.publications | slice: 0, 8 %}
+        {% for pub in pubs %}
+        <div class="paper-card">
+          {% if pub.image %}
+          <img src="{{ pub.image }}" alt="{{ pub.title }}" class="paper-card-image" />
+          {% else %}
+          <div class="paper-card-image-placeholder">
+            <i class="fa fa-file-text-o" style="font-size:2rem;opacity:0.4;"></i>
+          </div>
+          {% endif %}
+          <div class="paper-card-body">
+            <p class="paper-venue">{{ pub.date | date: "%Y" }}</p>
+            <h3 class="paper-title">{{ pub.title }}</h3>
+            <p class="paper-authors">{{ pub.citation | remove: "**" | remove: "*" | truncatewords: 18 }}</p>
+            {% if pub.pdf %}
+            <a href="{{ pub.pdf }}" class="paper-link" target="_blank">Read paper →</a>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
   <!-- ===== Podcast ===== -->
   <section id="podcast" class="home-section">
     <div class="section-inner">
@@ -156,42 +192,6 @@
           <p class="podcast-ep-date">{{ post.date | date: "%B %-d, %Y" }}</p>
           <p class="podcast-ep-desc">{{ post.content | strip_html | truncatewords: 30 }}</p>
           <a href="{{ post.url }}" class="podcast-ep-link">Listen & read more →</a>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-  </section>
-
-  <!-- ===== Latest Research ===== -->
-  <section id="papers" class="home-section alt">
-    <div class="section-inner">
-      <div class="scroll-section-header">
-        <div>
-          <span class="section-label">Recent Work</span>
-          <h2 class="section-title">Latest Research</h2>
-        </div>
-        <a href="/publications" class="view-all-link">All publications →</a>
-      </div>
-
-      <div class="scroll-track">
-        {% assign pubs = site.data.publications | slice: 0, 8 %}
-        {% for pub in pubs %}
-        <div class="paper-card">
-          {% if pub.image %}
-          <img src="{{ pub.image }}" alt="{{ pub.title }}" class="paper-card-image" />
-          {% else %}
-          <div class="paper-card-image-placeholder">
-            <i class="fa fa-file-text-o" style="font-size:2rem;opacity:0.4;"></i>
-          </div>
-          {% endif %}
-          <div class="paper-card-body">
-            <p class="paper-venue">{{ pub.date | date: "%Y" }}</p>
-            <h3 class="paper-title">{{ pub.title }}</h3>
-            <p class="paper-authors">{{ pub.citation | remove: "**" | remove: "*" | truncatewords: 18 }}</p>
-            {% if pub.pdf %}
-            <a href="{{ pub.pdf }}" class="paper-link" target="_blank">Read paper →</a>
-            {% endif %}
-          </div>
         </div>
         {% endfor %}
       </div>
