@@ -11,6 +11,7 @@
 - title: "Recovering Conformational Heterogeneity from the Protein Data Bank at Scale"
   citation: "**Wankowicz SA**. *The Stacks*. 2026."
   date: '2026-08-10'
+  image: '/static/img/pub/2026_qfit_scale.jpg'
   pdf: 'https://thestacks.org/publications/qfit-at-scale'
 
 - title: "sampleworks: A Modular Platform for Experimentally Guided Biomolecular Ensemble Generation"
