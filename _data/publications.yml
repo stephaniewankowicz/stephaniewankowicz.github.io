@@ -3,16 +3,16 @@
   date: '2026-08-26'
   pdf: 'https://www.biorxiv.org/content/10.64898/2026.08.26.747373v1'
 
-- title: "Supplying a user-defined bulk solvent map for refinement"
-  citation: "Holton J, **Wankowicz SA**. *The Stacks*. 2026."
-  date: '2026-06-17'
-  pdf: 'https://thestacks.org/publications/method-bulksolvent'
-
 - title: "Recovering Conformational Heterogeneity from the Protein Data Bank at Scale"
   citation: "**Wankowicz SA**. *The Stacks*. 2026."
   date: '2026-08-10'
   image: '/static/img/pub/2026_qfit_scale.jpg'
   pdf: 'https://thestacks.org/publications/qfit-at-scale'
+
+- title: "Supplying a user-defined bulk solvent map for refinement"
+  citation: "Holton J, **Wankowicz SA**. *The Stacks*. 2026."
+  date: '2026-06-17'
+  pdf: 'https://thestacks.org/publications/method-bulksolvent'
 
 - title: "sampleworks: A Modular Platform for Experimentally Guided Biomolecular Ensemble Generation"
   citation: "Chrispens K, Collins MD, Mai D, **Wankowicz SA**, Fraser JS, van den Bedem H. *The Stacks*. 2026."
