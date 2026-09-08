@@ -1,3 +1,8 @@
+- title: "Supplying a user-defined bulk solvent map for refinement"
+  citation: "Holton J, **Wankowicz SA**. *The Stacks*. 2026."
+  date: '2026-06-17'
+  pdf: 'https://thestacks.org/publications/method-bulksolvent'
+
 - title: "Recovering Conformational Heterogeneity from the Protein Data Bank at Scale"
   citation: "**Wankowicz SA**. *The Stacks*. 2026."
   date: '2026-08-10'
